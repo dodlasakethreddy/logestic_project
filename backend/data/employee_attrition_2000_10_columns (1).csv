@@ -1,0 +1,2001 @@
+Age,Department,MonthlyIncome,JobLevel,JobSatisfaction,OverTime,YearsAtCompany,WorkLifeBalance,DistanceFromHome,Attrition
+54,Finance,6012.0,4,4.0,No,12,1,1,No
+27,Sales,5750.0,3,3.0,No,8,1,23,No
+21,IT,4219.0,5,3.0,No,1,2,27,Yes
+46,Sales,3133.0,5,2.0,Yes,1,1,5,Yes
+34,Sales,3287.0,5,1.0,Yes,15,4,7,Yes
+39,IT,5709.0,1,1.0,No,5,1,16,No
+23,Sales,1739.0,4,4.0,No,1,2,27,No
+35,Finance,5196.0,3,4.0,Yes,8,4,5,No
+46,Finance,7329.0,2,1.0,No,12,2,13,No
+34,Finance,4208.0,2,2.0,No,14,2,8,Yes
+54,Finance,8119.0,1,4.0,Yes,9,2,29,No
+52,IT,7829.0,4,4.0,No,18,2,19,No
+48,Finance,5792.0,2,3.0,No,6,1,11,Yes
+57,Human Resources,6675.0,2,3.0,No,7,1,24,No
+49,Research & Development,6172.0,2,1.0,No,13,2,20,Yes
+27,Research & Development,4399.0,2,2.0,No,8,2,10,No
+55,Research & Development,4656.0,5,1.0,No,1,1,25,No
+46,Sales,5496.0,3,1.0,No,18,2,5,No
+24,Research & Development,1572.0,5,1.0,No,4,1,12,No
+32,Research & Development,3926.0,3,3.0,No,4,1,30,Yes
+26,IT,3507.0,3,1.0,No,5,4,27,No
+59,Finance,4724.0,4,1.0,No,19,2,7,No
+49,IT,4439.0,2,2.0,No,17,3,20,No
+57,Finance,6237.0,4,4.0,Yes,2,3,2,No
+31,Sales,6837.0,2,2.0,No,2,2,13,No
+46,Human Resources,4006.0,2,4.0,No,5,4,7,No
+44,Finance,5629.0,5,3.0,Yes,5,1,14,No
+50,Research & Development,4978.0,5,3.0,Yes,12,1,6,No
+24,IT,3130.0,1,1.0,No,4,2,10,No
+41,Sales,6377.0,5,3.0,No,2,2,20,No
+46,Finance,6043.0,3,4.0,No,2,1,7,No
+53,IT,6846.0,4,1.0,No,9,2,26,No
+46,IT,6257.0,1,1.0,Yes,16,4,6,No
+38,Sales,5601.0,5,2.0,No,15,4,18,No
+38,Sales,2316.0,1,4.0,No,5,1,10,No
+33,Research & Development,4898.0,1,3.0,No,1,1,26,Yes
+26,Research & Development,3668.0,4,4.0,No,7,3,4,No
+31,Research & Development,4722.0,5,2.0,No,9,2,19,No
+25,Finance,4679.0,1,3.0,No,6,1,2,No
+29,Human Resources,4554.0,3,2.0,No,9,3,4,No
+55,Finance,7353.0,5,3.0,No,4,1,17,No
+41,Sales,3789.0,1,4.0,Yes,18,1,12,Yes
+23,IT,4022.0,4,4.0,Yes,3,1,1,No
+37,Research & Development,4684.0,3,2.0,No,14,4,30,No
+31,Research & Development,4141.0,1,1.0,No,6,1,10,Yes
+47,Finance,7325.0,4,1.0,Yes,14,2,15,Yes
+54,IT,5844.0,4,2.0,Yes,9,4,9,No
+20,Finance,2400.0,3,2.0,No,1,3,5,No
+39,IT,3429.0,2,4.0,No,15,1,19,No
+38,Research & Development,4555.0,5,1.0,No,2,2,3,No
+60,Finance,8285.0,3,1.0,No,16,4,20,No
+34,Finance,2529.0,3,1.0,No,8,1,19,No
+26,Finance,4071.0,2,4.0,Yes,0,4,25,No
+28,Sales,1200.0,4,4.0,No,9,3,26,No
+39,Finance,4177.0,1,1.0,No,14,3,29,No
+44,Finance,6005.0,5,2.0,No,20,3,21,No
+33,IT,3789.0,5,2.0,No,6,2,8,No
+37,IT,3373.0,4,2.0,No,11,4,28,No
+47,Human Resources,5323.0,5,1.0,No,13,4,18,No
+32,Research & Development,5527.0,2,1.0,No,8,2,13,Yes
+59,IT,8695.0,5,2.0,Yes,9,1,23,No
+28,Sales,5775.0,3,2.0,Yes,5,3,6,Yes
+58,Research & Development,7629.0,4,1.0,No,5,4,2,No
+55,Human Resources,6958.0,5,1.0,No,9,4,13,Yes
+59,IT,8088.0,2,4.0,No,19,1,18,No
+52,Research & Development,4852.0,2,1.0,No,6,3,18,No
+41,Research & Development,4032.0,2,1.0,No,19,4,18,No
+44,Finance,,2,3.0,No,5,4,13,No
+28,Finance,4988.0,5,4.0,Yes,3,3,7,No
+34,Human Resources,5580.0,1,4.0,Yes,7,1,29,Yes
+38,IT,5176.0,2,2.0,No,15,4,26,No
+58,Research & Development,5820.0,1,2.0,Yes,4,3,12,No
+52,Finance,4944.0,4,3.0,No,3,4,28,No
+43,IT,6511.0,1,3.0,Yes,4,1,8,Yes
+44,Sales,6779.0,1,1.0,Yes,9,4,24,Yes
+37,Research & Development,3470.0,1,2.0,No,1,3,7,No
+37,Human Resources,3928.0,1,2.0,Yes,9,3,28,No
+56,Human Resources,6497.0,3,3.0,No,9,1,26,Yes
+20,Sales,4250.0,1,2.0,No,0,4,12,No
+33,IT,4026.0,4,4.0,Yes,8,2,18,No
+36,Sales,3697.0,3,4.0,Yes,14,2,19,No
+48,Research & Development,7046.0,2,1.0,No,10,3,18,No
+36,Sales,5437.0,1,2.0,No,1,2,15,No
+32,Research & Development,3507.0,4,3.0,No,2,2,11,No
+23,IT,2694.0,4,4.0,No,4,1,18,No
+30,IT,5482.0,4,4.0,No,10,1,18,No
+24,IT,2043.0,5,3.0,Yes,5,1,2,Yes
+48,Human Resources,5509.0,1,3.0,Yes,14,2,9,No
+37,Sales,5354.0,2,2.0,No,18,2,18,No
+29,Research & Development,4252.0,4,2.0,No,6,4,1,Yes
+42,Finance,6405.0,2,2.0,No,7,4,11,No
+40,IT,3047.0,1,1.0,No,4,1,25,No
+39,Research & Development,5026.0,3,3.0,No,18,3,23,No
+43,Sales,5746.0,2,3.0,Yes,15,3,20,No
+45,IT,5975.0,1,2.0,No,10,3,21,No
+27,Research & Development,4557.0,4,3.0,No,6,2,14,No
+26,IT,2370.0,1,3.0,Yes,5,4,10,No
+49,Research & Development,7689.0,2,2.0,No,9,1,11,No
+59,Sales,7450.0,3,2.0,No,14,1,20,No
+42,IT,5963.0,2,2.0,Yes,14,3,15,Yes
+38,IT,4218.0,2,4.0,No,2,2,23,No
+45,Sales,5792.0,2,1.0,No,5,1,29,No
+21,IT,4892.0,5,2.0,No,1,4,24,No
+35,Research & Development,4607.0,5,2.0,No,9,4,6,No
+34,Human Resources,4764.0,1,4.0,Yes,9,3,22,No
+37,Human Resources,5195.0,4,3.0,No,7,1,23,No
+50,Sales,4090.0,5,1.0,No,15,3,17,No
+40,Sales,4893.0,4,4.0,No,10,3,21,No
+55,Research & Development,7357.0,4,2.0,No,12,2,16,No
+39,IT,4419.0,4,4.0,No,10,2,22,No
+21,Sales,3244.0,2,2.0,No,1,2,29,Yes
+47,Human Resources,5726.0,4,2.0,No,8,3,12,No
+52,Sales,4344.0,5,4.0,No,0,1,7,No
+43,IT,6350.0,4,4.0,No,5,1,3,No
+58,IT,5185.0,1,1.0,No,2,3,15,No
+37,Finance,5322.0,4,2.0,No,8,4,22,No
+52,Finance,6080.0,4,2.0,No,8,4,17,No
+20,Finance,2791.0,2,2.0,No,1,1,21,Yes
+21,Sales,3375.0,3,3.0,No,1,2,28,No
+52,IT,7144.0,5,2.0,No,12,3,29,Yes
+55,Sales,7501.0,3,2.0,No,16,2,13,No
+41,Research & Development,4679.0,1,2.0,No,12,2,26,No
+50,Finance,5853.0,3,2.0,No,5,1,23,No
+33,Human Resources,3404.0,4,2.0,No,6,3,21,No
+49,IT,4201.0,2,4.0,No,11,1,27,No
+40,Finance,6241.0,1,4.0,No,18,4,13,No
+32,Finance,3023.0,2,2.0,No,5,3,14,No
+23,Human Resources,2603.0,3,3.0,Yes,1,1,20,No
+27,Research & Development,4320.0,1,3.0,Yes,0,2,27,No
+57,IT,5098.0,1,4.0,Yes,15,1,15,No
+38,Human Resources,5486.0,2,1.0,No,13,3,25,No
+60,Human Resources,5988.0,4,3.0,Yes,8,4,15,No
+34,Finance,3166.0,2,3.0,Yes,0,3,6,No
+22,IT,2693.0,4,4.0,No,0,1,14,No
+30,Finance,3129.0,5,3.0,Yes,8,1,28,Yes
+34,IT,4813.0,5,3.0,No,6,3,19,No
+48,Human Resources,7562.0,1,2.0,No,6,4,5,Yes
+49,Research & Development,6764.0,2,3.0,Yes,13,3,12,No
+50,Research & Development,6608.0,3,4.0,Yes,0,3,17,No
+32,Research & Development,3602.0,3,4.0,No,13,3,3,No
+35,Research & Development,4336.0,4,1.0,Yes,16,3,25,Yes
+43,IT,5496.0,2,4.0,No,18,1,14,No
+44,Human Resources,5389.0,4,1.0,No,1,4,29,No
+37,Sales,4965.0,3,2.0,Yes,15,4,9,Yes
+27,Human Resources,2399.0,2,4.0,No,8,3,1,No
+51,Finance,8232.0,3,2.0,No,20,4,13,No
+41,Research & Development,3550.0,4,4.0,No,14,4,30,No
+59,Sales,6683.0,5,4.0,No,12,2,12,No
+58,Finance,7754.0,1,2.0,Yes,14,1,8,No
+56,Human Resources,5675.0,1,3.0,No,0,1,24,No
+59,IT,8113.0,4,3.0,No,17,4,26,No
+45,IT,3828.0,2,1.0,Yes,4,1,30,Yes
+32,Sales,3393.0,3,1.0,No,6,3,10,No
+26,Research & Development,1200.0,1,4.0,No,6,1,6,No
+24,Human Resources,4762.0,1,2.0,Yes,0,4,8,Yes
+58,Research & Development,5317.0,2,3.0,No,7,1,8,No
+31,Human Resources,3352.0,4,3.0,No,5,1,9,No
+20,Human Resources,4054.0,1,1.0,No,1,4,3,Yes
+21,Research & Development,3641.0,5,2.0,No,2,2,7,No
+32,Research & Development,5548.0,1,3.0,No,4,3,25,No
+60,Human Resources,7707.0,3,1.0,No,2,1,6,Yes
+31,Human Resources,5243.0,5,4.0,No,2,2,13,No
+24,Sales,2931.0,5,3.0,No,0,4,26,Yes
+47,Sales,5589.0,1,2.0,Yes,7,2,3,No
+22,Sales,4203.0,3,1.0,No,2,2,15,No
+39,Sales,5834.0,1,3.0,No,3,1,27,No
+23,IT,4546.0,3,4.0,No,0,2,16,No
+23,Human Resources,2491.0,3,2.0,Yes,0,3,15,No
+34,IT,3140.0,2,3.0,Yes,9,3,7,No
+20,Finance,1619.0,5,4.0,No,0,2,28,Yes
+54,Sales,5787.0,5,3.0,No,18,3,17,No
+44,Research & Development,5283.0,3,2.0,Yes,20,2,6,No
+58,IT,5303.0,5,2.0,No,4,4,22,No
+40,Research & Development,4804.0,5,2.0,No,19,2,14,No
+42,Research & Development,5972.0,1,4.0,No,11,3,4,No
+44,Sales,6591.0,3,1.0,No,15,3,7,Yes
+39,Research & Development,4224.0,1,4.0,Yes,1,1,14,No
+43,Research & Development,5991.0,2,2.0,Yes,15,2,18,Yes
+43,Human Resources,3777.0,1,3.0,Yes,15,3,26,No
+56,Finance,5752.0,5,1.0,Yes,13,2,29,Yes
+32,Finance,4392.0,4,1.0,No,5,4,19,No
+57,IT,5864.0,2,2.0,Yes,15,2,23,Yes
+27,Finance,2854.0,1,2.0,No,4,4,28,Yes
+27,Research & Development,4111.0,1,3.0,Yes,3,1,11,Yes
+30,Human Resources,2884.0,2,3.0,No,3,3,8,No
+58,Sales,6866.0,2,3.0,No,18,4,17,No
+30,Human Resources,3945.0,1,3.0,No,6,2,9,No
+52,Sales,6773.0,2,2.0,Yes,16,3,6,No
+43,Sales,6213.0,2,3.0,No,18,4,18,No
+46,Sales,5752.0,1,3.0,No,16,4,14,No
+23,IT,2811.0,3,3.0,No,3,1,30,No
+47,Finance,6896.0,2,2.0,No,9,1,17,No
+22,Finance,3547.0,4,2.0,No,2,2,12,Yes
+42,Sales,4155.0,1,4.0,No,8,3,29,No
+52,Finance,6368.0,2,2.0,No,6,2,9,No
+57,Research & Development,5900.0,2,3.0,No,18,1,23,No
+60,Human Resources,3890.0,4,3.0,No,7,2,11,No
+29,Sales,2824.0,3,2.0,No,10,1,24,No
+51,Finance,5610.0,4,2.0,Yes,19,4,13,No
+44,Research & Development,4851.0,4,3.0,No,18,1,15,Yes
+50,Human Resources,4124.0,1,2.0,No,15,3,5,No
+53,IT,5835.0,5,2.0,No,11,2,14,No
+39,Research & Development,5437.0,2,1.0,Yes,4,2,26,Yes
+25,Research & Development,2227.0,1,4.0,No,1,4,11,No
+52,IT,6468.0,5,4.0,Yes,15,4,4,No
+45,Research & Development,3063.0,2,4.0,Yes,12,3,2,No
+25,Human Resources,4201.0,4,1.0,No,5,1,20,No
+36,Human Resources,3960.0,3,1.0,No,4,2,9,No
+25,Sales,1986.0,1,1.0,No,5,2,5,Yes
+51,IT,7394.0,5,3.0,No,18,3,7,No
+33,Sales,4911.0,2,4.0,No,10,4,23,No
+22,Research & Development,4447.0,2,1.0,No,3,4,16,No
+31,Sales,4534.0,2,3.0,Yes,1,4,2,No
+44,Sales,5813.0,3,3.0,No,12,1,21,No
+44,Sales,4936.0,1,3.0,No,12,3,7,No
+55,Human Resources,6947.0,2,4.0,No,13,2,25,No
+34,Sales,4345.0,1,1.0,No,0,3,25,Yes
+45,IT,4725.0,5,3.0,Yes,3,4,15,No
+58,IT,6499.0,3,1.0,No,11,4,26,No
+33,Sales,2822.0,4,3.0,No,3,2,29,Yes
+21,Sales,3178.0,5,2.0,Yes,0,4,19,No
+46,IT,6111.0,3,2.0,Yes,18,2,14,Yes
+44,IT,5543.0,2,3.0,Yes,16,4,24,No
+33,Sales,5028.0,3,4.0,No,12,1,22,No
+43,Human Resources,4927.0,4,3.0,Yes,6,2,15,Yes
+47,Sales,5718.0,5,2.0,No,16,3,3,No
+53,Human Resources,6282.0,1,4.0,No,19,3,28,No
+25,IT,5894.0,5,2.0,No,0,3,7,Yes
+39,Human Resources,3364.0,3,3.0,No,14,4,4,No
+31,IT,6570.0,4,2.0,No,2,1,17,Yes
+33,Finance,3479.0,5,1.0,No,12,1,26,No
+21,Research & Development,2808.0,3,4.0,No,2,1,6,Yes
+37,IT,5061.0,1,4.0,Yes,12,4,22,Yes
+23,Sales,4091.0,5,1.0,No,3,4,24,No
+57,IT,6598.0,3,4.0,No,8,2,29,No
+42,Research & Development,5470.0,5,2.0,No,8,4,13,No
+37,Human Resources,6391.0,1,3.0,Yes,0,4,3,No
+29,IT,7070.0,1,3.0,Yes,3,1,5,No
+58,Sales,7216.0,1,2.0,No,13,2,20,No
+41,Sales,5943.0,5,1.0,Yes,12,4,24,No
+60,Human Resources,6801.0,1,4.0,No,19,4,14,No
+47,Finance,7660.0,4,3.0,No,2,2,25,No
+60,Human Resources,6785.0,3,,Yes,18,4,1,No
+56,Human Resources,7146.0,4,3.0,No,7,2,3,Yes
+50,IT,4728.0,2,2.0,No,19,2,21,No
+34,IT,1288.0,3,1.0,No,8,3,9,Yes
+51,Human Resources,8766.0,2,4.0,No,12,1,18,No
+33,Research & Development,5626.0,5,2.0,No,3,4,22,No
+55,Finance,,1,3.0,No,8,3,16,No
+32,Human Resources,3157.0,4,3.0,Yes,0,3,25,Yes
+23,Human Resources,1472.0,2,2.0,No,3,1,17,No
+24,Sales,3222.0,3,2.0,No,3,3,5,No
+38,Sales,4974.0,4,1.0,No,19,2,22,Yes
+47,Human Resources,6547.0,5,2.0,Yes,4,3,29,Yes
+31,Sales,4184.0,4,4.0,No,0,1,21,No
+53,Finance,7782.0,1,4.0,No,8,2,28,No
+30,Finance,4488.0,1,3.0,No,2,4,6,No
+39,Research & Development,5299.0,2,3.0,No,3,4,8,No
+33,Finance,5742.0,3,4.0,Yes,12,3,4,Yes
+42,Research & Development,4423.0,4,1.0,Yes,12,1,21,Yes
+27,Finance,4249.0,2,3.0,No,7,4,13,No
+59,Sales,6172.0,1,1.0,Yes,5,4,24,No
+57,Research & Development,5840.0,2,3.0,No,17,1,28,No
+48,IT,7583.0,2,3.0,Yes,4,2,6,No
+41,Human Resources,6420.0,1,1.0,No,9,1,19,Yes
+50,Research & Development,6614.0,3,3.0,No,20,4,22,No
+39,Human Resources,6487.0,2,3.0,No,1,4,27,No
+56,Sales,6995.0,4,1.0,Yes,2,4,28,No
+22,Finance,4926.0,2,4.0,No,2,3,7,No
+28,Research & Development,2886.0,4,1.0,Yes,9,3,18,Yes
+38,IT,4667.0,5,4.0,No,7,1,1,No
+46,Human Resources,6056.0,4,2.0,No,9,1,22,No
+48,IT,4598.0,2,2.0,Yes,12,1,7,No
+49,Research & Development,5091.0,5,4.0,No,13,4,9,No
+58,Sales,5271.0,1,2.0,No,11,3,15,No
+54,Sales,7168.0,4,4.0,No,18,3,23,No
+57,Sales,6100.0,3,3.0,No,0,1,15,No
+34,Human Resources,4785.0,4,4.0,Yes,6,1,1,No
+48,IT,6417.0,1,1.0,No,11,2,4,No
+48,Finance,5609.0,2,3.0,Yes,12,1,4,No
+44,Research & Development,5444.0,3,2.0,No,3,2,29,No
+44,IT,5580.0,5,4.0,No,1,4,7,No
+41,Finance,5636.0,2,2.0,No,4,1,27,No
+36,IT,6248.0,1,4.0,No,17,4,14,No
+25,IT,2311.0,1,4.0,No,0,3,12,No
+24,Research & Development,3624.0,4,4.0,Yes,0,1,20,No
+20,IT,1718.0,1,1.0,No,0,3,13,No
+34,Finance,6182.0,1,2.0,Yes,14,4,4,No
+35,IT,2396.0,2,1.0,Yes,5,3,21,No
+59,IT,7040.0,3,1.0,Yes,10,1,15,No
+29,Sales,3500.0,4,1.0,No,6,2,29,Yes
+28,Sales,3218.0,5,4.0,Yes,7,4,20,No
+21,Human Resources,4077.0,3,4.0,No,0,3,20,No
+24,IT,4146.0,5,4.0,No,4,2,14,No
+46,Human Resources,4475.0,2,1.0,No,16,3,10,No
+35,Human Resources,5110.0,2,2.0,Yes,11,4,19,No
+45,Research & Development,5852.0,3,4.0,Yes,8,2,13,No
+24,Human Resources,2635.0,4,3.0,No,4,1,24,No
+51,Finance,4357.0,4,1.0,No,18,1,12,No
+30,Sales,5021.0,1,1.0,Yes,2,4,5,Yes
+22,Human Resources,4147.0,4,3.0,No,2,3,10,No
+57,Sales,7262.0,5,3.0,Yes,12,3,27,No
+34,Research & Development,3840.0,4,4.0,Yes,8,1,28,No
+33,Finance,5800.0,5,1.0,No,3,2,25,No
+21,Human Resources,7295.0,4,1.0,No,2,3,14,No
+44,Research & Development,5600.0,5,1.0,Yes,0,3,7,No
+31,Human Resources,4802.0,1,2.0,No,10,1,23,No
+29,Research & Development,3016.0,4,4.0,No,3,4,15,No
+47,Research & Development,4737.0,1,4.0,Yes,3,1,13,Yes
+47,Human Resources,7769.0,3,3.0,No,6,2,18,No
+25,Human Resources,6290.0,4,4.0,Yes,5,4,16,No
+25,IT,3304.0,2,3.0,No,6,4,20,No
+29,Finance,3199.0,3,3.0,No,8,1,9,No
+52,Research & Development,5067.0,2,2.0,No,4,3,14,No
+30,Research & Development,3345.0,3,1.0,No,1,3,5,No
+37,Research & Development,4794.0,2,4.0,No,0,1,9,Yes
+25,IT,2110.0,4,4.0,No,6,2,10,No
+27,Finance,2936.0,2,2.0,Yes,7,3,29,Yes
+47,Finance,6801.0,3,1.0,No,15,2,10,No
+51,Human Resources,5855.0,3,1.0,No,10,3,10,No
+55,Finance,5503.0,1,2.0,No,20,1,28,No
+42,Research & Development,3799.0,4,1.0,No,1,3,9,No
+31,Sales,5420.0,1,1.0,No,6,2,23,No
+37,Research & Development,3470.0,4,1.0,Yes,4,4,16,No
+26,Sales,,5,1.0,Yes,5,2,15,No
+29,IT,5146.0,5,3.0,No,10,2,20,No
+39,Research & Development,5547.0,1,2.0,Yes,3,4,17,No
+52,Research & Development,6486.0,4,4.0,No,3,3,24,No
+30,Research & Development,4408.0,5,4.0,Yes,4,1,30,No
+34,Research & Development,3300.0,4,3.0,No,6,4,22,No
+21,Finance,2336.0,2,1.0,No,2,1,5,No
+21,Sales,2641.0,3,2.0,No,2,1,12,No
+42,IT,1768.0,1,4.0,Yes,16,2,15,No
+59,Human Resources,6309.0,2,1.0,Yes,20,1,7,No
+43,Finance,5166.0,1,1.0,Yes,7,1,18,Yes
+21,Research & Development,3096.0,4,4.0,No,2,3,5,No
+43,IT,5138.0,3,3.0,No,1,1,5,No
+24,Sales,3724.0,5,1.0,No,0,4,17,No
+48,Research & Development,6082.0,3,4.0,Yes,5,3,8,No
+39,IT,6855.0,5,3.0,Yes,0,1,2,No
+34,Research & Development,4617.0,4,3.0,No,14,3,10,No
+28,Sales,4881.0,2,2.0,Yes,8,4,26,Yes
+27,IT,3060.0,3,2.0,No,2,3,8,No
+33,Research & Development,4730.0,4,4.0,No,12,3,26,No
+38,IT,5164.0,5,2.0,No,17,1,15,No
+43,Sales,5022.0,2,3.0,Yes,5,3,28,No
+48,Finance,3730.0,3,3.0,No,7,3,5,No
+59,IT,5210.0,2,2.0,No,4,4,22,No
+21,IT,3744.0,3,3.0,No,1,4,29,No
+58,Sales,6662.0,3,2.0,No,0,4,15,No
+43,IT,5005.0,5,2.0,Yes,17,4,1,No
+23,IT,2590.0,5,3.0,No,3,1,17,No
+55,Human Resources,6549.0,2,4.0,No,20,3,19,No
+54,Research & Development,7032.0,5,3.0,No,9,4,7,No
+31,IT,6388.0,2,1.0,No,7,2,26,No
+26,Human Resources,3677.0,1,1.0,Yes,7,3,9,No
+32,Finance,4057.0,3,3.0,No,3,2,17,No
+53,Human Resources,6589.0,5,2.0,Yes,8,4,11,No
+57,IT,8038.0,4,1.0,Yes,6,3,9,No
+32,Research & Development,7031.0,5,4.0,No,7,1,16,Yes
+39,Finance,5610.0,1,2.0,No,14,4,1,No
+49,IT,4172.0,5,2.0,No,10,4,25,No
+27,Finance,3834.0,3,3.0,No,8,2,22,No
+49,Human Resources,4538.0,2,3.0,No,8,1,29,No
+29,Research & Development,2845.0,4,1.0,No,3,1,9,No
+54,IT,8539.0,4,2.0,No,8,1,23,No
+25,Human Resources,3204.0,2,4.0,No,2,2,22,No
+60,Human Resources,6092.0,4,3.0,No,10,4,24,No
+49,Finance,7545.0,1,1.0,No,10,3,4,No
+31,Human Resources,4290.0,3,4.0,Yes,12,1,28,No
+53,IT,4933.0,5,1.0,Yes,10,1,25,No
+45,Finance,5602.0,2,1.0,Yes,20,3,11,Yes
+39,Finance,3292.0,3,1.0,No,7,2,13,No
+50,Finance,4980.0,2,4.0,No,8,4,16,No
+48,IT,6044.0,3,1.0,No,2,3,14,No
+23,Finance,1200.0,5,4.0,No,3,2,28,No
+29,Human Resources,4874.0,5,3.0,No,7,3,19,No
+47,Human Resources,6034.0,2,3.0,No,17,2,26,No
+36,Finance,5693.0,4,4.0,No,4,4,25,No
+33,IT,3934.0,1,1.0,No,1,2,12,No
+42,Sales,5764.0,4,4.0,No,3,3,15,Yes
+26,Human Resources,2557.0,2,4.0,No,4,3,25,No
+60,Finance,5866.0,1,4.0,No,19,1,26,Yes
+42,Sales,5386.0,4,3.0,No,18,3,10,No
+20,Human Resources,3206.0,4,4.0,No,0,3,25,No
+38,Sales,4873.0,5,2.0,No,12,1,14,No
+50,IT,7643.0,5,1.0,Yes,17,3,11,No
+43,Human Resources,5032.0,2,1.0,No,12,2,30,No
+40,Research & Development,5614.0,3,4.0,No,3,2,4,No
+46,Sales,6058.0,3,2.0,No,11,2,28,No
+21,Finance,3461.0,1,1.0,No,1,3,22,No
+40,Research & Development,5571.0,2,1.0,No,7,4,30,No
+36,Finance,2621.0,5,4.0,No,4,3,14,No
+57,Sales,6028.0,2,2.0,Yes,5,4,19,Yes
+43,Human Resources,6684.0,1,2.0,No,14,3,1,No
+27,Sales,3491.0,1,1.0,No,5,4,6,No
+54,Research & Development,7244.0,2,4.0,Yes,14,4,9,No
+31,Finance,4788.0,5,3.0,No,7,2,13,No
+60,Finance,3329.0,2,4.0,No,18,4,29,No
+34,IT,2937.0,2,3.0,No,12,4,26,No
+54,Finance,5610.0,3,3.0,No,3,4,23,No
+51,Human Resources,5306.0,4,1.0,No,3,2,7,No
+49,Finance,5394.0,1,2.0,No,5,3,27,Yes
+46,Research & Development,5129.0,5,3.0,Yes,17,4,6,No
+20,Human Resources,2200.0,5,3.0,No,1,2,6,No
+28,Finance,3137.0,3,1.0,No,1,2,21,No
+55,Sales,4159.0,1,1.0,No,19,2,2,Yes
+50,Sales,8349.0,1,1.0,No,1,2,8,Yes
+38,Finance,6550.0,2,4.0,No,15,3,22,No
+51,Finance,7167.0,5,2.0,No,12,1,1,No
+46,Sales,5542.0,4,4.0,No,4,3,28,No
+51,Human Resources,5024.0,5,1.0,Yes,13,1,4,No
+41,Research & Development,8088.0,5,1.0,No,0,2,4,Yes
+23,Human Resources,2325.0,1,2.0,No,2,3,29,Yes
+36,Finance,6406.0,4,4.0,Yes,4,2,7,Yes
+28,Human Resources,4300.0,2,3.0,No,1,3,12,No
+55,IT,5400.0,4,2.0,No,6,1,20,No
+56,Human Resources,5609.0,5,2.0,Yes,9,2,10,No
+28,Research & Development,3423.0,3,1.0,No,7,4,11,No
+56,Human Resources,5838.0,1,3.0,No,17,4,18,No
+33,Finance,2705.0,4,,No,6,1,21,No
+28,Finance,4436.0,3,4.0,No,0,4,19,No
+31,Finance,3110.0,2,4.0,Yes,3,2,17,Yes
+42,Human Resources,6171.0,3,4.0,No,4,3,30,No
+29,Sales,3807.0,2,1.0,No,1,2,14,No
+30,Human Resources,4287.0,2,1.0,No,3,1,10,No
+48,Sales,5965.0,4,1.0,No,6,4,28,No
+37,Research & Development,4315.0,5,3.0,No,1,3,19,No
+48,Human Resources,5708.0,2,1.0,No,11,3,1,Yes
+20,Research & Development,3373.0,3,1.0,No,1,2,10,No
+24,Human Resources,6317.0,5,4.0,No,0,3,7,No
+31,Sales,2667.0,5,3.0,No,6,4,30,No
+34,IT,3650.0,4,3.0,No,8,1,14,No
+31,Research & Development,3743.0,4,2.0,No,7,1,17,No
+36,Sales,3170.0,5,4.0,No,2,1,28,No
+57,Finance,5073.0,3,1.0,No,10,2,9,Yes
+38,Research & Development,3002.0,3,3.0,No,2,2,3,No
+44,Sales,5355.0,1,4.0,No,11,3,30,No
+52,Human Resources,5539.0,1,1.0,Yes,2,4,21,Yes
+27,Finance,4006.0,4,2.0,Yes,5,3,21,No
+25,Finance,1899.0,2,1.0,No,3,4,30,Yes
+37,Research & Development,3681.0,2,3.0,No,0,3,20,No
+45,Human Resources,6603.0,3,4.0,No,2,2,1,No
+40,Research & Development,5934.0,3,4.0,No,13,1,17,No
+24,Research & Development,1640.0,1,2.0,No,3,1,4,No
+46,Research & Development,6591.0,1,3.0,No,18,3,25,No
+57,Sales,5985.0,1,3.0,Yes,15,3,29,No
+41,IT,3792.0,4,4.0,Yes,4,2,29,Yes
+56,IT,7417.0,1,1.0,No,6,2,28,Yes
+37,Finance,5816.0,5,1.0,No,4,4,20,No
+36,IT,1651.0,5,4.0,No,17,4,20,No
+32,IT,5294.0,5,1.0,Yes,1,3,30,Yes
+41,Finance,,2,1.0,No,18,3,21,No
+43,Finance,4665.0,4,1.0,No,2,4,29,No
+24,Finance,3037.0,1,2.0,Yes,5,2,22,Yes
+60,IT,8184.0,2,3.0,No,4,2,6,No
+26,Research & Development,5174.0,1,2.0,No,6,4,23,No
+42,Finance,5580.0,5,3.0,Yes,7,1,23,Yes
+32,Finance,5156.0,2,1.0,No,4,3,25,No
+56,Finance,9049.0,1,1.0,No,7,3,28,Yes
+46,Research & Development,5517.0,3,3.0,No,5,2,29,No
+20,Finance,1854.0,3,1.0,No,0,1,4,Yes
+21,Human Resources,3791.0,5,4.0,No,0,1,17,No
+28,Human Resources,4672.0,2,3.0,No,7,2,6,No
+53,Research & Development,6015.0,4,3.0,Yes,20,1,15,No
+55,Research & Development,6165.0,3,4.0,Yes,8,4,6,No
+42,IT,7733.0,4,2.0,Yes,17,3,8,No
+43,Human Resources,4949.0,2,1.0,Yes,12,1,16,Yes
+46,Human Resources,4473.0,1,3.0,No,7,1,26,No
+39,Finance,1663.0,3,2.0,,8,3,3,No
+40,IT,5957.0,3,2.0,No,8,3,25,No
+35,Research & Development,6028.0,4,4.0,No,7,1,6,No
+40,Finance,3576.0,5,3.0,No,12,1,1,No
+32,IT,4918.0,3,4.0,Yes,1,3,8,Yes
+50,Human Resources,5526.0,2,1.0,No,5,3,8,No
+47,Human Resources,5728.0,1,3.0,No,9,1,23,No
+49,Research & Development,5136.0,3,2.0,No,14,3,29,No
+34,Research & Development,4404.0,1,3.0,No,7,4,7,No
+36,Research & Development,5646.0,1,1.0,No,5,2,25,Yes
+37,Research & Development,4095.0,1,2.0,No,5,3,28,No
+44,Research & Development,4560.0,4,1.0,No,5,1,22,No
+51,IT,4830.0,5,3.0,No,11,3,4,No
+20,Sales,4442.0,3,1.0,No,1,3,25,No
+58,IT,5706.0,2,1.0,Yes,1,3,20,Yes
+55,IT,7166.0,3,3.0,No,0,4,6,No
+60,Research & Development,5405.0,5,1.0,Yes,15,4,15,Yes
+31,IT,1588.0,5,4.0,Yes,1,1,9,Yes
+39,IT,4229.0,3,3.0,No,2,1,5,No
+42,Research & Development,5467.0,2,1.0,No,4,4,30,No
+25,Finance,4870.0,3,4.0,No,3,3,10,No
+34,Research & Development,5380.0,3,1.0,Yes,9,2,11,Yes
+21,Research & Development,3577.0,1,4.0,No,0,1,21,Yes
+24,IT,1200.0,1,3.0,No,4,2,7,No
+40,IT,5574.0,1,2.0,Yes,9,1,18,Yes
+32,Finance,2469.0,5,4.0,No,5,2,1,No
+23,Finance,2548.0,3,3.0,Yes,0,3,8,No
+54,Finance,8469.0,4,1.0,Yes,4,4,22,No
+24,Research & Development,4680.0,2,4.0,Yes,4,1,15,No
+29,Finance,2665.0,4,2.0,No,1,1,1,No
+29,Sales,3544.0,5,4.0,No,1,1,5,No
+41,Finance,6042.0,3,4.0,No,0,3,17,No
+60,Human Resources,6730.0,4,2.0,No,14,4,5,No
+21,IT,2943.0,5,1.0,No,0,2,15,No
+26,Research & Development,2334.0,1,2.0,No,3,2,10,No
+33,Research & Development,4986.0,2,1.0,No,5,3,28,Yes
+24,Finance,4291.0,2,2.0,No,0,2,8,No
+20,Sales,2156.0,5,4.0,No,0,2,3,No
+57,Sales,4199.0,4,2.0,Yes,0,4,11,No
+29,Sales,6130.0,3,3.0,No,4,3,22,No
+45,Research & Development,4649.0,4,1.0,No,7,4,23,No
+56,Human Resources,7034.0,2,4.0,Yes,20,3,5,No
+50,Research & Development,4943.0,4,1.0,No,15,1,1,Yes
+21,Research & Development,2320.0,1,2.0,Yes,1,4,27,Yes
+34,Sales,5593.0,5,3.0,No,7,3,20,No
+22,Research & Development,2929.0,1,1.0,Yes,3,2,14,Yes
+58,Finance,7653.0,1,2.0,No,6,3,4,No
+39,Research & Development,5876.0,4,2.0,Yes,8,4,3,No
+60,IT,6307.0,5,2.0,Yes,16,4,30,Yes
+36,Sales,4994.0,2,2.0,No,2,1,12,Yes
+42,IT,6139.0,3,2.0,No,3,4,3,No
+22,Research & Development,4800.0,3,1.0,Yes,1,1,7,No
+60,Human Resources,6605.0,5,2.0,Yes,18,2,18,No
+55,Finance,6463.0,1,1.0,,16,2,29,Yes
+40,Finance,3904.0,1,4.0,No,1,4,23,No
+29,Sales,4919.0,4,1.0,Yes,0,2,23,Yes
+38,Human Resources,4961.0,1,1.0,No,14,2,3,No
+37,Research & Development,3151.0,3,4.0,Yes,8,2,1,No
+52,Human Resources,5754.0,5,2.0,No,12,2,11,No
+32,Finance,4136.0,4,2.0,Yes,9,3,14,No
+46,Finance,4900.0,4,4.0,No,6,2,17,No
+53,Finance,5409.0,4,4.0,No,13,2,23,No
+28,Research & Development,1941.0,2,2.0,Yes,7,1,26,No
+51,Human Resources,6199.0,1,1.0,No,12,4,3,No
+41,Finance,4626.0,3,1.0,No,11,2,14,No
+28,IT,4995.0,3,1.0,No,0,4,29,No
+20,Human Resources,3016.0,4,4.0,No,1,3,8,No
+56,Sales,7563.0,4,4.0,No,13,4,18,No
+55,Sales,5039.0,4,4.0,Yes,9,1,22,No
+22,Sales,3783.0,5,3.0,Yes,2,2,30,Yes
+42,Sales,6102.0,4,1.0,Yes,11,4,1,No
+23,Finance,4316.0,5,2.0,Yes,0,4,15,Yes
+21,Sales,2911.0,5,4.0,No,1,1,22,No
+22,IT,2278.0,5,4.0,No,0,4,14,No
+58,Research & Development,8753.0,5,2.0,No,1,1,5,No
+40,Sales,4818.0,3,1.0,Yes,6,2,28,No
+60,IT,5527.0,3,4.0,No,2,1,15,No
+51,Human Resources,5848.0,1,2.0,No,18,2,13,No
+50,Research & Development,6400.0,5,4.0,Yes,2,4,12,No
+24,Finance,2687.0,2,2.0,No,0,1,13,No
+37,Research & Development,5267.0,4,2.0,No,12,4,10,No
+43,IT,6420.0,3,4.0,No,4,2,10,No
+44,Research & Development,5392.0,3,2.0,No,17,1,18,No
+25,Human Resources,4850.0,1,1.0,No,5,1,3,No
+20,IT,3028.0,1,2.0,No,0,2,15,No
+45,Sales,4983.0,5,2.0,Yes,19,2,20,No
+24,Human Resources,5442.0,4,2.0,Yes,4,3,26,Yes
+58,IT,7534.0,2,4.0,No,8,3,29,Yes
+33,Research & Development,4538.0,4,2.0,No,3,4,21,No
+58,Human Resources,4634.0,2,2.0,No,0,2,20,No
+36,IT,3043.0,1,2.0,No,10,1,14,No
+37,Finance,2795.0,4,3.0,No,16,4,2,No
+50,Human Resources,5971.0,4,1.0,No,16,3,3,No
+56,Sales,6556.0,5,2.0,No,3,3,13,No
+26,Finance,4236.0,4,1.0,No,5,3,1,No
+38,Human Resources,6117.0,3,3.0,Yes,10,4,19,No
+24,Finance,1728.0,5,4.0,No,4,2,4,No
+48,Human Resources,4223.0,1,2.0,Yes,13,1,26,Yes
+48,Finance,4736.0,3,2.0,No,1,3,26,No
+25,Human Resources,4191.0,4,2.0,No,0,2,6,No
+56,Human Resources,6936.0,5,2.0,Yes,9,4,9,No
+60,Human Resources,5729.0,1,2.0,Yes,19,2,18,No
+56,Finance,5750.0,1,1.0,No,18,3,17,Yes
+52,Sales,6664.0,2,4.0,No,4,1,21,No
+50,Human Resources,6101.0,5,3.0,No,6,3,16,No
+31,IT,5428.0,1,1.0,No,12,1,15,No
+60,Finance,5998.0,2,3.0,Yes,17,1,12,No
+32,Research & Development,4144.0,4,2.0,Yes,7,2,7,No
+41,Finance,3979.0,2,2.0,Yes,5,1,17,No
+48,IT,7203.0,4,4.0,Yes,5,4,21,No
+51,IT,7339.0,1,2.0,No,11,3,25,No
+33,Human Resources,,5,2.0,Yes,6,4,16,No
+37,IT,5950.0,2,3.0,No,10,3,19,No
+39,IT,6624.0,1,1.0,Yes,13,4,26,No
+34,Sales,6243.0,1,3.0,Yes,6,4,20,No
+33,Research & Development,6440.0,2,4.0,No,1,2,17,No
+57,Sales,5840.0,3,1.0,Yes,13,3,29,No
+29,IT,3086.0,4,4.0,Yes,0,4,14,No
+37,Finance,6337.0,3,2.0,Yes,0,2,18,No
+26,Sales,3252.0,2,4.0,No,0,2,10,No
+50,Finance,3930.0,3,3.0,No,4,4,10,No
+53,Research & Development,5783.0,3,3.0,Yes,4,2,24,No
+40,Sales,6312.0,4,2.0,No,15,2,1,No
+22,Human Resources,2827.0,2,3.0,No,2,1,13,No
+24,IT,4487.0,1,3.0,No,1,2,9,No
+30,Sales,4510.0,2,1.0,Yes,5,4,23,Yes
+25,IT,2063.0,5,3.0,Yes,3,1,17,Yes
+29,Human Resources,4591.0,5,3.0,No,6,2,29,No
+40,Human Resources,5109.0,2,3.0,No,12,2,27,No
+43,Finance,4725.0,3,2.0,No,15,1,7,No
+49,Sales,4240.0,3,3.0,Yes,18,1,3,Yes
+58,IT,8722.0,5,1.0,No,18,1,14,No
+50,Sales,4956.0,5,4.0,No,13,4,5,No
+39,Finance,2562.0,4,2.0,No,19,3,24,No
+33,Finance,5430.0,2,1.0,No,6,2,13,No
+55,Research & Development,5987.0,2,1.0,No,0,3,1,No
+20,IT,4616.0,5,4.0,No,1,2,10,No
+49,Finance,5826.0,2,3.0,No,0,1,13,No
+41,Sales,5174.0,5,2.0,No,6,3,11,No
+40,Human Resources,5799.0,4,3.0,Yes,2,2,30,No
+27,Research & Development,4001.0,4,2.0,Yes,8,1,14,No
+31,Research & Development,4376.0,5,2.0,No,4,3,10,No
+33,Research & Development,5728.0,5,3.0,No,3,2,21,No
+21,Sales,2210.0,1,4.0,No,2,1,15,Yes
+43,IT,6048.0,5,4.0,Yes,9,4,7,No
+43,Research & Development,5727.0,2,1.0,No,7,4,7,No
+36,Human Resources,2796.0,2,3.0,No,10,3,23,No
+56,IT,7946.0,4,2.0,Yes,15,3,7,No
+38,IT,5829.0,5,4.0,Yes,15,2,17,No
+22,Research & Development,5231.0,4,2.0,No,2,4,1,No
+22,Finance,2867.0,1,1.0,Yes,2,1,2,Yes
+35,Sales,3308.0,4,3.0,No,4,3,25,No
+27,Finance,7543.0,2,1.0,Yes,1,1,27,Yes
+55,Finance,5306.0,5,3.0,Yes,9,3,14,No
+54,Sales,5479.0,1,3.0,No,2,1,12,No
+59,Sales,7569.0,1,4.0,No,18,4,20,No
+40,Finance,4581.0,4,2.0,No,13,2,23,Yes
+40,Sales,5594.0,2,4.0,No,19,4,12,No
+56,Finance,5031.0,2,1.0,No,0,2,21,No
+46,Research & Development,3634.0,2,2.0,Yes,1,1,15,No
+55,Research & Development,5868.0,2,4.0,Yes,2,3,9,No
+27,IT,4673.0,5,4.0,No,4,1,6,No
+27,Human Resources,3825.0,1,4.0,No,3,4,21,No
+22,Human Resources,4823.0,2,1.0,Yes,1,3,1,No
+36,Research & Development,4405.0,4,2.0,No,14,2,2,No
+52,Sales,6466.0,4,1.0,No,0,3,10,No
+41,Human Resources,4107.0,3,2.0,No,5,2,7,No
+42,IT,3539.0,5,3.0,Yes,13,2,13,No
+23,Research & Development,2030.0,4,1.0,No,1,1,28,No
+25,Sales,2722.0,2,3.0,Yes,4,1,12,No
+23,IT,5839.0,4,4.0,Yes,3,4,4,No
+35,IT,3083.0,3,4.0,No,10,3,25,No
+54,Sales,5373.0,1,4.0,No,18,2,22,No
+50,IT,7692.0,2,3.0,No,16,1,3,No
+53,Human Resources,5537.0,3,3.0,No,17,1,26,No
+32,Research & Development,5045.0,5,1.0,No,12,4,22,No
+35,Human Resources,1894.0,4,2.0,No,10,1,14,No
+59,Sales,5740.0,2,4.0,No,10,1,1,No
+48,Human Resources,6473.0,4,1.0,No,17,3,2,No
+48,Human Resources,3822.0,1,1.0,No,9,4,13,Yes
+41,Research & Development,5408.0,4,2.0,No,3,3,26,No
+24,IT,3620.0,5,4.0,Yes,5,1,26,No
+50,Finance,5373.0,5,1.0,No,6,2,22,No
+35,Human Resources,4293.0,2,4.0,No,14,2,24,No
+32,Sales,5182.0,4,4.0,Yes,7,3,17,No
+49,Research & Development,5889.0,4,1.0,No,19,3,29,Yes
+39,Finance,6181.0,5,1.0,No,3,1,6,No
+26,Human Resources,4702.0,3,1.0,No,1,4,7,Yes
+56,Sales,8460.0,3,1.0,Yes,10,4,23,No
+36,Human Resources,4208.0,1,3.0,Yes,4,3,22,Yes
+53,Finance,6533.0,3,1.0,No,20,1,24,No
+36,Research & Development,3450.0,2,2.0,No,1,2,4,Yes
+32,Finance,5077.0,1,3.0,No,6,2,7,No
+52,Research & Development,5382.0,2,4.0,No,4,1,1,No
+56,Human Resources,7353.0,3,2.0,No,1,4,3,No
+32,Research & Development,4000.0,1,1.0,Yes,4,4,7,No
+36,Finance,4509.0,1,2.0,Yes,13,1,24,No
+42,Research & Development,5559.0,5,4.0,No,4,4,19,No
+47,Sales,4869.0,3,2.0,Yes,10,4,28,Yes
+40,IT,4292.0,1,4.0,No,5,4,3,No
+49,IT,5201.0,2,1.0,Yes,11,4,16,Yes
+53,IT,5678.0,4,2.0,No,20,4,10,No
+36,Human Resources,5456.0,1,3.0,No,13,2,5,No
+54,Human Resources,5954.0,2,1.0,No,10,4,3,No
+53,Research & Development,5635.0,3,1.0,Yes,3,2,20,Yes
+60,Finance,7971.0,4,1.0,No,6,3,8,No
+39,Human Resources,5819.0,3,4.0,No,3,1,15,No
+54,Human Resources,6227.0,3,1.0,No,3,1,13,No
+59,Research & Development,9841.0,5,4.0,Yes,14,2,16,No
+58,Research & Development,5539.0,3,1.0,No,14,1,10,No
+58,IT,8720.0,5,2.0,Yes,7,2,13,Yes
+36,Sales,5013.0,3,1.0,No,1,3,15,No
+56,IT,7807.0,3,3.0,No,12,2,2,No
+37,Sales,4436.0,4,1.0,No,16,4,29,No
+57,Sales,8096.0,4,2.0,Yes,19,1,12,No
+53,Finance,5134.0,5,2.0,No,10,3,3,No
+26,IT,4707.0,5,1.0,Yes,1,4,10,No
+25,Sales,3967.0,2,2.0,Yes,6,3,18,No
+46,Finance,6731.0,4,1.0,No,16,3,24,No
+30,IT,3551.0,1,3.0,Yes,8,3,5,No
+50,IT,6538.0,1,3.0,Yes,14,1,28,Yes
+52,IT,5283.0,4,2.0,Yes,1,2,9,No
+41,Sales,4747.0,3,1.0,No,16,3,12,No
+51,Finance,5830.0,1,3.0,Yes,14,1,10,Yes
+41,Human Resources,4451.0,4,4.0,No,4,1,22,No
+43,Finance,4779.0,2,2.0,No,5,2,20,No
+28,IT,2477.0,3,4.0,No,2,1,8,No
+44,Sales,5313.0,3,2.0,No,4,1,26,No
+26,Sales,5490.0,3,4.0,Yes,3,3,4,No
+45,IT,8961.0,4,3.0,No,8,3,16,No
+52,Human Resources,5220.0,5,4.0,Yes,19,3,2,No
+51,Human Resources,5221.0,3,3.0,No,20,2,14,No
+26,Finance,4156.0,2,2.0,No,0,2,16,No
+52,Research & Development,6824.0,3,4.0,No,12,1,22,No
+49,Human Resources,4392.0,1,4.0,Yes,3,3,26,No
+26,Finance,1200.0,4,2.0,No,3,1,19,No
+23,IT,3782.0,2,3.0,No,0,4,10,No
+46,Human Resources,7258.0,2,4.0,No,1,4,17,No
+36,Finance,6411.0,1,1.0,No,5,3,24,No
+40,Human Resources,5078.0,1,1.0,Yes,15,3,17,No
+20,Research & Development,4855.0,1,3.0,No,0,4,22,No
+29,Human Resources,3841.0,1,3.0,Yes,7,4,3,No
+47,IT,4080.0,4,2.0,No,13,1,19,No
+45,Research & Development,5404.0,4,3.0,Yes,17,1,6,No
+32,Sales,5569.0,4,1.0,No,6,3,19,Yes
+34,Research & Development,4675.0,4,2.0,No,4,3,28,No
+39,Research & Development,4315.0,2,4.0,No,8,2,8,No
+33,Research & Development,4489.0,5,1.0,No,1,4,25,Yes
+31,IT,4638.0,4,3.0,No,2,2,27,No
+32,IT,4496.0,3,2.0,Yes,11,4,2,No
+41,Sales,5548.0,5,2.0,No,4,3,19,No
+42,Research & Development,5733.0,2,1.0,No,5,3,20,No
+46,Finance,6941.0,5,3.0,No,9,4,30,No
+30,IT,4300.0,2,3.0,No,3,1,19,Yes
+26,Finance,3579.0,3,1.0,No,1,2,20,Yes
+32,Finance,4761.0,2,3.0,No,4,2,20,No
+51,Research & Development,6845.0,3,3.0,Yes,5,1,5,No
+54,Research & Development,4333.0,4,4.0,No,7,3,6,No
+52,Human Resources,7607.0,3,2.0,Yes,11,4,20,Yes
+36,Human Resources,6746.0,2,4.0,No,0,4,1,No
+58,Human Resources,6833.0,3,1.0,No,12,1,6,No
+43,Research & Development,6114.0,3,1.0,No,6,2,8,No
+35,IT,3732.0,2,4.0,Yes,12,2,13,Yes
+43,Research & Development,6185.0,4,4.0,No,11,1,25,No
+55,Research & Development,5498.0,4,4.0,No,12,2,14,No
+37,Sales,5025.0,3,4.0,Yes,0,2,25,Yes
+23,Finance,4169.0,4,2.0,Yes,3,1,6,No
+32,IT,3390.0,2,3.0,No,5,4,1,No
+60,Sales,5666.0,3,2.0,Yes,15,1,26,No
+39,Finance,4585.0,4,4.0,Yes,0,2,15,No
+28,IT,3277.0,3,1.0,No,1,1,5,No
+56,Research & Development,6226.0,5,1.0,Yes,15,1,22,No
+35,Research & Development,3300.0,5,2.0,No,1,1,23,No
+33,Finance,5728.0,5,4.0,No,12,3,22,No
+23,Finance,3154.0,1,3.0,Yes,2,1,16,No
+58,IT,7332.0,2,1.0,No,7,4,24,No
+54,Sales,4472.0,1,2.0,Yes,0,3,22,No
+35,IT,3913.0,3,2.0,Yes,9,4,16,No
+39,Human Resources,6912.0,3,4.0,No,1,2,15,Yes
+30,Finance,3090.0,2,1.0,No,5,2,24,No
+59,Sales,7239.0,4,3.0,No,3,1,5,No
+57,IT,9214.0,4,2.0,No,7,4,12,No
+25,IT,3665.0,5,4.0,No,5,4,19,No
+29,Finance,5852.0,3,1.0,No,9,4,26,Yes
+56,Human Resources,5537.0,4,4.0,Yes,6,4,18,No
+28,Finance,3378.0,3,3.0,No,7,2,9,No
+34,Finance,4449.0,2,3.0,No,0,4,12,Yes
+53,Research & Development,5678.0,5,2.0,No,0,3,2,No
+29,Finance,4457.0,1,1.0,No,6,2,7,No
+54,Human Resources,4290.0,1,2.0,No,2,3,9,Yes
+46,Finance,4388.0,2,3.0,No,5,2,8,No
+27,Research & Development,5425.0,5,3.0,No,7,1,6,No
+21,Research & Development,3428.0,2,2.0,Yes,0,3,3,No
+27,IT,4439.0,1,1.0,No,1,4,20,No
+41,IT,7202.0,5,3.0,No,14,3,13,No
+59,Finance,4799.0,4,4.0,No,20,1,22,Yes
+39,Human Resources,1412.0,5,2.0,Yes,9,3,27,Yes
+25,Human Resources,5787.0,1,1.0,No,6,4,24,Yes
+21,Research & Development,1637.0,4,1.0,No,0,2,19,Yes
+27,Research & Development,3946.0,5,1.0,No,5,2,13,No
+37,Research & Development,2846.0,5,2.0,No,7,4,2,No
+38,Sales,1824.0,5,3.0,Yes,16,2,1,No
+32,Research & Development,4225.0,5,1.0,Yes,5,3,17,Yes
+45,Finance,6110.0,5,2.0,No,1,2,12,No
+30,Research & Development,3135.0,4,4.0,Yes,9,3,30,No
+30,IT,1200.0,4,2.0,No,4,2,29,No
+58,Research & Development,7150.0,3,2.0,No,2,2,19,No
+41,Human Resources,7444.0,3,2.0,Yes,8,3,28,No
+44,IT,3374.0,5,1.0,Yes,11,1,9,Yes
+43,Human Resources,6271.0,3,2.0,No,4,3,20,No
+26,Sales,4071.0,3,2.0,Yes,0,3,5,No
+43,Sales,3133.0,2,1.0,No,20,1,10,No
+51,Finance,7325.0,1,3.0,No,18,1,21,No
+21,Research & Development,3485.0,3,1.0,No,2,4,7,No
+35,Finance,4425.0,3,4.0,No,3,2,4,No
+31,IT,5747.0,1,2.0,Yes,10,4,25,No
+44,Finance,5489.0,4,2.0,No,16,1,4,No
+57,Human Resources,8221.0,3,1.0,No,16,3,11,No
+35,Sales,7740.0,3,2.0,Yes,12,1,10,No
+22,Finance,3623.0,3,1.0,Yes,2,1,21,Yes
+46,Finance,6176.0,4,1.0,Yes,18,4,9,No
+32,Finance,3634.0,3,1.0,No,2,1,17,Yes
+47,Human Resources,7591.0,5,4.0,No,7,4,29,No
+25,Research & Development,2188.0,5,1.0,Yes,1,4,16,Yes
+31,Finance,3620.0,1,1.0,No,5,1,20,No
+35,Sales,4549.0,5,3.0,No,15,2,12,No
+54,IT,6211.0,1,1.0,No,17,1,11,No
+42,IT,4434.0,4,4.0,Yes,8,3,8,No
+45,Sales,6628.0,3,1.0,No,6,2,29,No
+48,Finance,5487.0,2,4.0,No,10,4,22,No
+44,Sales,2897.0,3,3.0,No,3,1,26,Yes
+56,Human Resources,8012.0,2,4.0,No,3,4,20,No
+28,Human Resources,6037.0,2,2.0,No,6,2,30,No
+46,IT,5000.0,4,4.0,No,17,4,9,No
+30,Sales,5779.0,2,4.0,Yes,3,1,23,No
+42,IT,4650.0,4,4.0,No,12,2,28,No
+36,Finance,3527.0,5,4.0,No,6,2,4,No
+57,IT,5609.0,4,4.0,No,0,4,19,No
+21,Human Resources,5260.0,5,4.0,No,1,1,17,No
+42,Research & Development,6931.0,4,2.0,No,5,2,27,No
+22,Finance,4224.0,3,1.0,No,1,4,12,No
+34,Sales,3316.0,5,2.0,No,13,1,8,No
+47,IT,6724.0,3,3.0,Yes,15,1,23,No
+29,Finance,2752.0,5,2.0,No,10,3,22,No
+32,Finance,5090.0,2,4.0,No,13,2,1,No
+47,Research & Development,5110.0,5,4.0,No,20,4,12,No
+49,IT,5272.0,1,,Yes,17,3,22,No
+46,Sales,5043.0,3,2.0,No,11,4,26,No
+23,Finance,1200.0,3,1.0,No,1,3,27,Yes
+33,IT,2328.0,1,4.0,No,4,2,5,No
+50,Sales,5870.0,3,1.0,No,14,3,28,Yes
+55,Sales,5235.0,4,4.0,No,19,3,17,No
+28,Human Resources,4947.0,5,3.0,No,2,2,11,No
+36,Human Resources,6130.0,1,3.0,No,8,3,19,No
+55,Sales,4653.0,1,1.0,Yes,10,2,7,No
+25,Finance,1866.0,2,1.0,No,6,3,27,Yes
+57,Sales,6511.0,4,1.0,No,3,1,25,Yes
+35,Sales,6958.0,3,2.0,Yes,1,3,9,No
+48,Sales,4912.0,1,1.0,Yes,18,3,24,No
+38,Human Resources,5503.0,1,3.0,No,11,3,10,No
+36,Research & Development,2730.0,4,2.0,No,5,3,15,No
+35,Research & Development,3524.0,5,1.0,No,0,1,27,Yes
+21,IT,3861.0,4,3.0,Yes,1,1,23,No
+57,IT,6407.0,4,4.0,No,16,2,26,No
+51,Human Resources,6725.0,2,1.0,Yes,18,4,22,No
+57,Research & Development,6843.0,1,3.0,No,10,4,10,No
+43,Research & Development,5345.0,1,1.0,Yes,11,4,2,No
+59,IT,6838.0,4,4.0,No,7,2,26,No
+23,Finance,5105.0,2,1.0,No,3,1,27,No
+34,Human Resources,4425.0,2,1.0,Yes,4,3,14,Yes
+43,IT,6390.0,2,4.0,No,18,2,10,No
+39,IT,4656.0,2,1.0,No,18,4,3,No
+20,Sales,3279.0,5,1.0,No,0,4,1,Yes
+24,Research & Development,2259.0,5,1.0,Yes,1,4,26,No
+38,Human Resources,2358.0,2,1.0,Yes,11,2,22,Yes
+53,Finance,5789.0,4,2.0,No,17,2,29,No
+45,IT,5653.0,3,4.0,Yes,19,4,27,No
+31,IT,3630.0,5,4.0,No,2,4,8,No
+52,IT,6848.0,5,3.0,Yes,0,1,23,Yes
+56,Research & Development,5616.0,1,3.0,No,7,2,14,No
+31,Research & Development,2526.0,4,1.0,No,6,2,30,Yes
+57,Human Resources,4898.0,3,1.0,No,0,3,5,No
+29,Human Resources,4791.0,4,2.0,No,2,3,23,Yes
+43,Human Resources,4339.0,5,3.0,No,18,2,13,No
+33,Human Resources,4388.0,1,4.0,Yes,7,2,12,No
+49,Sales,4200.0,5,1.0,Yes,16,4,29,No
+22,Finance,2286.0,3,1.0,No,1,2,16,No
+22,Human Resources,3295.0,5,3.0,No,2,2,14,No
+58,Sales,8032.0,1,4.0,No,4,1,2,No
+27,Human Resources,2507.0,3,1.0,No,6,2,7,No
+56,Research & Development,4798.0,4,2.0,Yes,6,1,25,Yes
+47,Sales,5666.0,5,4.0,No,2,1,12,No
+44,Sales,5578.0,5,4.0,No,10,3,13,No
+49,Human Resources,5346.0,5,,No,2,4,8,No
+23,Human Resources,4858.0,1,2.0,No,1,2,13,No
+22,Human Resources,1236.0,4,4.0,Yes,0,4,12,No
+23,Research & Development,2404.0,4,2.0,No,1,1,20,Yes
+20,IT,3107.0,2,1.0,No,0,2,3,No
+58,IT,5664.0,4,1.0,No,2,4,12,No
+38,Finance,5217.0,1,3.0,Yes,4,2,20,No
+25,Finance,3585.0,1,3.0,No,1,1,18,No
+32,IT,3944.0,4,3.0,Yes,8,3,5,No
+25,Research & Development,6472.0,5,4.0,No,4,4,27,No
+57,Human Resources,5428.0,2,1.0,No,5,4,10,No
+52,Finance,5828.0,5,2.0,No,19,2,9,Yes
+20,Sales,3690.0,1,1.0,Yes,0,2,28,Yes
+32,IT,3340.0,1,2.0,Yes,9,4,19,No
+46,Research & Development,5736.0,5,4.0,No,0,3,25,No
+36,IT,5649.0,3,3.0,Yes,14,4,8,No
+29,IT,4218.0,3,2.0,No,3,4,13,Yes
+36,Research & Development,5514.0,3,3.0,No,2,1,19,No
+37,Finance,4268.0,3,3.0,No,10,1,17,No
+48,IT,5450.0,5,4.0,No,14,4,28,No
+42,Research & Development,7502.0,2,4.0,Yes,15,4,24,No
+39,Sales,5478.0,4,1.0,No,20,2,12,No
+45,Research & Development,6640.0,4,3.0,Yes,19,1,9,No
+53,Finance,5457.0,1,4.0,No,19,1,1,No
+23,Human Resources,3129.0,5,3.0,Yes,1,2,24,Yes
+40,IT,6404.0,1,4.0,Yes,0,1,7,No
+51,IT,6163.0,5,4.0,No,12,1,8,No
+31,Research & Development,2662.0,5,3.0,No,2,2,17,Yes
+55,Research & Development,5354.0,3,4.0,Yes,7,1,3,No
+27,IT,3693.0,5,1.0,No,3,3,11,No
+21,IT,5088.0,1,4.0,No,2,2,21,No
+50,Finance,6601.0,4,3.0,Yes,1,2,17,No
+51,Finance,5141.0,5,4.0,Yes,6,1,7,No
+28,IT,3852.0,3,2.0,No,9,2,20,No
+60,Human Resources,6991.0,5,1.0,No,12,4,11,No
+44,Sales,3387.0,2,4.0,No,1,1,5,No
+21,Sales,3171.0,2,3.0,No,2,3,27,No
+44,Human Resources,4976.0,1,3.0,No,10,4,8,No
+34,IT,4266.0,5,2.0,No,3,1,4,Yes
+59,Finance,5748.0,3,2.0,No,20,2,17,No
+31,Research & Development,4613.0,2,1.0,No,3,3,24,No
+23,Finance,2907.0,4,2.0,No,4,2,5,No
+55,IT,5516.0,5,4.0,No,2,1,20,No
+28,IT,6103.0,2,2.0,Yes,5,3,22,Yes
+33,Sales,3905.0,1,1.0,No,14,3,23,No
+47,Sales,4045.0,3,4.0,Yes,6,3,16,No
+33,Research & Development,5820.0,4,4.0,No,10,2,15,Yes
+33,Human Resources,6049.0,1,3.0,No,8,2,20,No
+40,Research & Development,3861.0,1,3.0,No,8,3,3,Yes
+25,Sales,3074.0,1,3.0,Yes,1,1,5,Yes
+42,Finance,4993.0,1,2.0,No,14,1,24,No
+56,Finance,6054.0,1,3.0,No,1,3,29,Yes
+60,Sales,5254.0,3,2.0,No,20,4,7,No
+49,Human Resources,4574.0,4,1.0,No,14,3,30,No
+44,IT,7960.0,2,1.0,No,18,1,7,No
+29,Finance,3236.0,3,3.0,No,1,4,20,No
+55,Human Resources,5798.0,2,3.0,No,0,2,14,No
+23,Research & Development,4324.0,1,1.0,No,1,1,12,No
+49,IT,5288.0,3,1.0,No,0,3,26,No
+54,Research & Development,5534.0,5,1.0,Yes,19,2,22,Yes
+39,IT,3656.0,2,3.0,Yes,18,3,9,No
+43,Finance,5931.0,4,2.0,Yes,0,3,10,No
+53,Finance,6486.0,1,4.0,No,13,1,22,No
+58,Sales,8060.0,1,3.0,Yes,15,3,20,No
+21,Research & Development,2688.0,4,4.0,No,1,3,24,No
+41,Research & Development,6663.0,2,3.0,No,4,2,13,No
+36,Research & Development,4808.0,5,3.0,No,16,2,13,No
+29,Human Resources,3324.0,5,4.0,No,6,4,20,No
+55,Human Resources,6980.0,2,1.0,No,17,1,7,No
+25,Sales,3998.0,1,2.0,No,1,1,28,No
+33,Human Resources,4673.0,4,1.0,No,14,1,16,Yes
+37,IT,3817.0,1,3.0,No,9,2,8,No
+29,Sales,3842.0,4,3.0,Yes,4,2,18,No
+48,IT,5532.0,2,2.0,No,11,3,16,No
+46,Human Resources,6456.0,1,2.0,No,12,1,12,No
+20,Finance,4649.0,1,4.0,No,1,1,10,No
+26,Finance,4676.0,1,2.0,Yes,2,3,16,No
+36,Sales,5525.0,4,3.0,No,1,4,28,Yes
+56,IT,7854.0,4,3.0,No,8,4,1,No
+36,Human Resources,6109.0,2,2.0,Yes,12,2,29,No
+37,Sales,4258.0,2,3.0,No,9,4,30,No
+47,Finance,4277.0,3,2.0,Yes,13,1,10,No
+52,Research & Development,6343.0,3,3.0,No,10,3,16,No
+27,Human Resources,5588.0,4,2.0,No,6,1,22,No
+47,IT,4172.0,5,2.0,No,16,3,13,No
+55,Human Resources,5288.0,2,3.0,Yes,19,4,8,No
+56,IT,6607.0,4,1.0,No,15,1,26,No
+33,Human Resources,3683.0,5,4.0,No,11,4,16,No
+51,Research & Development,7250.0,4,4.0,No,17,3,9,No
+53,Human Resources,6343.0,5,1.0,No,11,4,20,No
+26,Human Resources,4695.0,2,2.0,No,1,1,6,No
+53,Research & Development,6609.0,3,2.0,No,1,4,22,No
+57,Finance,7117.0,4,4.0,Yes,7,2,12,No
+56,Finance,5122.0,3,3.0,No,10,3,29,No
+55,Sales,5666.0,2,3.0,No,19,1,9,No
+30,Finance,1709.0,1,2.0,No,11,2,16,No
+40,Research & Development,4091.0,4,4.0,No,11,2,22,No
+54,Finance,5689.0,4,3.0,Yes,16,1,14,No
+23,Human Resources,3812.0,4,1.0,No,4,1,12,Yes
+29,Finance,2590.0,5,4.0,Yes,4,2,20,No
+28,Research & Development,6008.0,4,1.0,No,7,1,21,No
+36,Research & Development,6101.0,3,3.0,No,11,2,13,No
+24,Research & Development,2277.0,4,3.0,No,1,1,21,No
+27,IT,1576.0,2,4.0,Yes,7,1,28,Yes
+60,IT,4997.0,2,1.0,No,20,2,14,No
+39,Research & Development,5292.0,1,1.0,Yes,17,1,25,No
+53,Human Resources,4770.0,1,4.0,Yes,8,2,9,No
+23,Research & Development,3055.0,3,3.0,Yes,0,4,14,No
+22,Human Resources,3983.0,1,1.0,Yes,2,3,24,Yes
+59,IT,7294.0,1,3.0,Yes,3,2,18,No
+59,Research & Development,7707.0,3,4.0,No,11,2,5,No
+20,Research & Development,1575.0,1,3.0,No,1,1,6,No
+30,Research & Development,4861.0,1,2.0,Yes,11,2,1,No
+40,Human Resources,5851.0,1,1.0,Yes,19,1,19,No
+46,Finance,6732.0,3,2.0,Yes,5,4,1,No
+54,IT,7344.0,5,1.0,No,1,3,28,No
+20,Human Resources,1595.0,4,2.0,Yes,1,4,30,No
+25,Research & Development,1200.0,4,3.0,No,3,1,24,No
+20,Research & Development,3564.0,1,1.0,No,1,2,4,No
+44,Research & Development,7322.0,4,1.0,No,19,3,18,Yes
+42,IT,4292.0,4,4.0,No,2,3,27,No
+41,Research & Development,4184.0,3,3.0,No,10,4,29,Yes
+28,Sales,4096.0,2,3.0,No,9,1,9,No
+51,Research & Development,7371.0,4,3.0,No,3,4,19,No
+57,Human Resources,7524.0,5,2.0,Yes,2,3,10,No
+48,Human Resources,4370.0,3,4.0,Yes,8,3,25,No
+60,Finance,6408.0,4,3.0,No,0,2,17,No
+53,Research & Development,5589.0,3,4.0,No,1,4,28,No
+23,Sales,4104.0,4,2.0,Yes,3,4,16,No
+52,Finance,7078.0,1,3.0,No,17,1,7,No
+45,Research & Development,4449.0,2,1.0,No,5,2,15,No
+43,Human Resources,4346.0,4,4.0,No,9,2,23,No
+28,IT,4239.0,1,2.0,No,6,1,2,Yes
+34,Human Resources,4202.0,3,3.0,Yes,10,3,19,No
+34,Sales,3541.0,3,1.0,No,13,2,19,Yes
+24,Finance,2973.0,3,3.0,No,1,4,27,No
+33,Finance,5094.0,2,3.0,Yes,4,2,13,No
+26,Human Resources,3283.0,5,2.0,No,5,3,27,No
+38,Human Resources,4701.0,3,2.0,No,14,1,21,Yes
+55,Sales,5532.0,5,4.0,No,7,2,27,No
+50,Sales,6700.0,5,4.0,No,9,4,12,No
+30,Sales,3465.0,3,1.0,Yes,8,2,1,Yes
+43,IT,5638.0,3,4.0,No,3,1,1,No
+56,IT,6761.0,2,1.0,Yes,8,3,5,Yes
+58,Human Resources,6282.0,2,3.0,Yes,20,2,24,No
+32,Human Resources,3276.0,3,3.0,No,12,4,23,No
+32,Human Resources,4185.0,4,4.0,No,7,2,28,No
+22,Finance,2959.0,2,3.0,No,2,1,3,No
+51,Research & Development,7299.0,3,4.0,No,3,4,26,No
+31,Sales,3167.0,3,1.0,Yes,1,4,25,Yes
+34,Human Resources,5378.0,2,4.0,No,15,2,26,No
+35,Sales,6015.0,1,4.0,No,12,1,1,No
+24,Sales,4312.0,1,1.0,Yes,1,2,26,No
+24,Finance,4417.0,1,4.0,Yes,1,1,15,No
+43,Research & Development,5029.0,4,1.0,No,10,3,26,No
+37,IT,5307.0,4,1.0,No,3,2,25,No
+33,Human Resources,4939.0,2,2.0,No,6,2,26,Yes
+52,IT,4265.0,3,4.0,No,12,1,27,No
+28,Human Resources,3530.0,1,3.0,No,8,4,7,No
+36,Research & Development,3233.0,3,1.0,No,7,3,12,Yes
+32,Human Resources,2070.0,5,2.0,No,3,4,28,No
+40,Research & Development,5040.0,4,4.0,No,8,2,30,No
+25,IT,4171.0,2,1.0,Yes,6,3,15,No
+60,Human Resources,6174.0,1,2.0,Yes,0,2,18,Yes
+32,IT,4934.0,2,4.0,Yes,3,4,13,No
+28,Sales,4620.0,5,1.0,Yes,8,4,28,No
+48,Human Resources,5953.0,3,2.0,Yes,18,4,14,No
+42,Finance,4676.0,1,2.0,No,3,2,12,No
+50,Human Resources,6840.0,1,3.0,Yes,11,4,10,No
+60,Sales,9100.0,4,3.0,No,1,4,12,Yes
+48,IT,3388.0,5,2.0,No,1,4,27,No
+40,Finance,5963.0,1,3.0,No,9,2,9,No
+33,Human Resources,3038.0,1,3.0,No,10,2,29,Yes
+44,Sales,6486.0,5,2.0,No,1,4,21,No
+57,Human Resources,7900.0,5,2.0,Yes,14,1,15,Yes
+42,Research & Development,4798.0,5,3.0,Yes,14,1,3,No
+42,Human Resources,4767.0,3,2.0,Yes,17,4,22,No
+24,Human Resources,3554.0,2,2.0,Yes,2,3,13,No
+38,IT,5052.0,4,1.0,No,6,4,11,No
+49,Research & Development,5711.0,2,2.0,Yes,5,3,26,No
+53,Research & Development,7701.0,4,4.0,No,1,2,11,No
+57,Finance,4833.0,5,3.0,No,3,2,9,No
+46,Sales,5066.0,5,4.0,No,17,3,16,No
+57,Human Resources,7496.0,5,3.0,No,18,4,13,No
+22,IT,3045.0,4,3.0,No,1,3,16,No
+44,Sales,5182.0,4,4.0,No,17,3,13,No
+30,Research & Development,3788.0,2,4.0,No,3,4,3,No
+34,Finance,5671.0,2,1.0,Yes,2,2,4,Yes
+58,Finance,7643.0,3,1.0,No,7,4,24,No
+47,IT,4174.0,2,4.0,No,19,4,8,No
+38,Research & Development,3544.0,4,3.0,Yes,15,1,5,No
+58,IT,6312.0,4,1.0,No,17,2,30,No
+36,Human Resources,4554.0,1,4.0,Yes,16,2,4,No
+60,Sales,8088.0,4,1.0,Yes,3,2,11,Yes
+32,Human Resources,4199.0,1,3.0,No,3,1,18,Yes
+31,Sales,5831.0,1,3.0,No,10,2,6,No
+46,Sales,7908.0,1,1.0,No,8,2,25,Yes
+58,Finance,5769.0,3,1.0,No,13,4,6,Yes
+23,IT,3691.0,4,3.0,No,4,2,24,No
+49,Sales,7194.0,3,3.0,No,6,3,20,No
+36,Finance,5004.0,3,1.0,Yes,6,2,10,Yes
+55,Research & Development,6943.0,3,2.0,Yes,9,3,13,No
+51,IT,5602.0,1,2.0,Yes,13,3,8,No
+26,Research & Development,3115.0,3,4.0,Yes,5,4,2,No
+47,Research & Development,6018.0,1,3.0,No,9,2,1,No
+60,Finance,8204.0,3,4.0,Yes,0,3,21,No
+26,Finance,2518.0,3,1.0,No,2,2,22,Yes
+50,Sales,5889.0,3,2.0,No,5,2,19,No
+24,Sales,5752.0,1,3.0,No,5,2,28,No
+26,Research & Development,3548.0,3,3.0,Yes,4,4,28,No
+30,Sales,4363.0,3,1.0,No,0,3,22,No
+42,IT,6263.0,1,1.0,No,2,3,10,No
+52,Sales,6941.0,4,1.0,Yes,3,1,1,Yes
+24,Research & Development,3406.0,3,3.0,Yes,4,4,21,No
+21,Sales,3048.0,5,1.0,No,0,2,17,No
+49,Research & Development,7800.0,4,4.0,No,3,3,2,No
+33,Finance,3317.0,3,2.0,No,6,2,13,No
+44,Finance,3871.0,4,3.0,No,1,4,17,No
+37,Finance,6167.0,1,2.0,Yes,6,3,11,No
+43,IT,6917.0,5,2.0,No,18,4,26,No
+33,Research & Development,3296.0,4,2.0,Yes,10,2,7,No
+54,Sales,7508.0,3,2.0,No,3,4,4,No
+24,Finance,4042.0,2,4.0,No,4,2,13,No
+51,IT,6041.0,3,2.0,No,16,4,30,Yes
+37,Human Resources,4981.0,2,3.0,No,7,2,1,No
+23,Sales,5741.0,1,4.0,Yes,2,4,16,No
+56,Human Resources,7556.0,1,3.0,Yes,8,4,8,No
+51,Sales,6898.0,2,3.0,Yes,10,2,4,No
+26,Finance,4445.0,5,2.0,No,4,1,17,No
+42,IT,4626.0,4,1.0,Yes,10,4,17,Yes
+26,Sales,3441.0,1,1.0,No,6,2,14,No
+27,Human Resources,3744.0,5,2.0,No,7,4,7,No
+32,IT,3337.0,3,2.0,No,8,3,10,No
+34,Finance,5218.0,2,2.0,No,14,2,21,No
+60,Human Resources,8434.0,2,4.0,No,0,3,21,No
+40,IT,5040.0,3,2.0,No,12,1,8,No
+37,IT,3886.0,4,3.0,Yes,16,3,18,No
+55,Sales,5632.0,1,4.0,No,17,1,29,No
+21,Human Resources,5264.0,5,3.0,Yes,2,1,2,Yes
+56,Human Resources,5971.0,1,4.0,Yes,19,2,24,No
+21,Sales,1883.0,3,4.0,No,0,2,23,No
+24,IT,1849.0,1,2.0,Yes,4,1,26,No
+21,Finance,2782.0,2,2.0,No,2,3,10,No
+38,Human Resources,6422.0,2,3.0,Yes,11,4,17,No
+60,Finance,8555.0,4,1.0,Yes,10,2,12,No
+54,Finance,7194.0,1,1.0,No,1,1,28,Yes
+22,Sales,2558.0,1,1.0,No,0,3,3,No
+44,Finance,6527.0,3,2.0,No,5,1,4,No
+58,Research & Development,6635.0,4,3.0,Yes,12,3,5,No
+55,IT,7317.0,2,3.0,No,7,2,7,No
+31,Human Resources,6921.0,1,3.0,No,2,3,3,No
+44,Human Resources,5273.0,1,2.0,Yes,1,2,9,Yes
+34,Finance,2960.0,4,1.0,No,12,1,13,No
+29,Research & Development,6413.0,2,2.0,No,5,1,21,No
+56,Human Resources,6498.0,4,4.0,Yes,15,1,18,No
+40,Research & Development,4956.0,3,3.0,Yes,5,2,7,No
+39,Finance,3112.0,2,3.0,No,19,3,18,Yes
+41,Finance,6170.0,3,1.0,No,8,1,12,Yes
+28,Finance,5305.0,1,2.0,No,0,2,28,No
+56,Sales,7009.0,5,2.0,No,4,1,20,No
+44,Human Resources,6879.0,4,1.0,No,1,2,12,Yes
+34,Human Resources,4142.0,1,3.0,No,7,1,3,No
+44,Finance,7190.0,3,4.0,No,1,1,17,Yes
+29,Research & Development,5078.0,1,3.0,No,3,3,10,No
+39,IT,7218.0,2,1.0,Yes,16,3,26,No
+50,IT,4140.0,4,4.0,No,11,4,18,No
+53,Sales,4930.0,4,1.0,No,6,2,21,No
+37,Sales,5980.0,5,1.0,No,3,1,21,No
+49,IT,6507.0,1,1.0,No,0,4,20,No
+39,Finance,4006.0,2,4.0,No,19,3,5,No
+23,Finance,3703.0,2,3.0,No,2,1,9,No
+60,Finance,8222.0,2,1.0,No,9,3,21,No
+55,Research & Development,8002.0,5,4.0,No,9,1,8,No
+47,Research & Development,6197.0,3,3.0,No,1,3,15,No
+22,Finance,3619.0,4,4.0,No,2,1,9,No
+47,Research & Development,6447.0,1,2.0,No,8,3,24,No
+29,IT,,1,2.0,No,5,2,5,No
+58,Sales,9223.0,3,4.0,No,2,3,20,No
+23,IT,3091.0,5,1.0,No,1,1,16,No
+49,Finance,6093.0,5,1.0,,12,1,22,No
+36,Sales,4609.0,5,2.0,No,1,3,29,Yes
+59,Sales,8885.0,4,1.0,Yes,3,2,2,Yes
+52,Research & Development,5717.0,1,3.0,No,6,1,29,No
+45,Research & Development,6753.0,2,3.0,No,18,2,20,No
+41,Sales,5242.0,4,2.0,No,7,4,28,Yes
+44,Human Resources,5050.0,1,4.0,No,0,3,6,No
+45,Finance,3182.0,5,3.0,No,6,2,29,Yes
+31,IT,4283.0,3,4.0,No,7,1,23,Yes
+41,Human Resources,7319.0,5,4.0,No,19,1,29,No
+29,Finance,3328.0,4,4.0,No,3,1,4,No
+31,Human Resources,1200.0,2,3.0,No,9,1,27,No
+41,IT,5651.0,1,3.0,Yes,5,3,21,No
+45,IT,4233.0,4,2.0,No,3,1,6,No
+22,IT,1346.0,4,4.0,No,3,2,30,No
+60,Research & Development,6456.0,3,2.0,No,16,1,15,No
+26,Research & Development,2240.0,2,1.0,No,1,4,4,No
+42,IT,6620.0,3,2.0,No,15,3,2,No
+49,Human Resources,6274.0,1,2.0,Yes,18,2,1,No
+31,Human Resources,5048.0,3,3.0,No,12,2,23,No
+47,IT,,5,1.0,No,9,3,22,No
+40,Sales,5027.0,3,4.0,No,19,2,30,No
+21,Sales,2669.0,2,3.0,No,2,1,5,No
+55,IT,6878.0,2,4.0,No,11,1,1,No
+26,Finance,1200.0,3,2.0,Yes,1,2,11,No
+24,Human Resources,3549.0,4,1.0,No,1,1,7,No
+45,IT,6819.0,2,3.0,Yes,14,4,10,No
+27,Human Resources,5912.0,5,1.0,No,4,2,5,No
+36,Sales,5720.0,5,2.0,No,10,4,1,No
+21,Finance,3470.0,3,1.0,Yes,2,2,10,Yes
+44,Finance,3435.0,4,4.0,No,5,4,25,No
+55,IT,6706.0,1,1.0,No,14,3,3,No
+25,Human Resources,1317.0,1,2.0,No,6,1,25,No
+43,Research & Development,4304.0,1,4.0,No,1,2,23,No
+55,Human Resources,6268.0,1,1.0,No,15,4,20,No
+28,IT,3624.0,2,1.0,No,8,4,12,No
+30,Sales,5205.0,3,1.0,No,9,2,9,Yes
+38,Sales,4563.0,1,1.0,No,4,2,7,No
+35,Human Resources,3101.0,4,3.0,No,0,1,27,No
+23,Research & Development,2891.0,1,2.0,No,0,2,22,No
+38,Research & Development,3987.0,4,3.0,Yes,13,2,13,No
+57,Human Resources,8003.0,3,4.0,No,1,4,23,No
+44,Sales,3701.0,3,4.0,No,12,3,13,No
+33,Research & Development,3832.0,4,2.0,No,10,2,9,No
+60,Sales,8084.0,4,1.0,Yes,7,2,25,No
+23,Finance,2440.0,2,4.0,No,2,2,28,No
+28,Finance,4404.0,4,1.0,No,1,3,9,Yes
+60,Research & Development,7020.0,3,3.0,Yes,4,4,11,No
+26,Human Resources,3345.0,1,2.0,No,1,4,15,No
+53,Sales,4210.0,2,4.0,No,15,2,28,No
+25,Research & Development,3696.0,1,1.0,No,6,1,29,Yes
+29,Human Resources,3416.0,1,2.0,No,0,4,17,Yes
+51,IT,6469.0,5,3.0,No,4,3,6,No
+46,Human Resources,3906.0,3,2.0,No,0,1,12,No
+35,IT,5240.0,4,4.0,No,1,1,1,No
+30,IT,4927.0,4,4.0,Yes,4,1,14,Yes
+58,Human Resources,8480.0,1,2.0,No,2,3,25,Yes
+38,Human Resources,4316.0,4,2.0,No,12,2,14,No
+22,Finance,2541.0,4,1.0,No,1,2,3,Yes
+52,Research & Development,7313.0,3,3.0,No,1,3,2,No
+41,Sales,3926.0,1,4.0,No,1,4,6,No
+26,Sales,2728.0,1,1.0,No,5,4,5,No
+51,Human Resources,5763.0,1,4.0,No,0,3,9,No
+41,Research & Development,3822.0,2,2.0,No,18,2,25,No
+40,Finance,6818.0,3,2.0,No,1,3,2,Yes
+54,IT,7574.0,2,1.0,No,19,4,30,No
+36,Human Resources,2103.0,2,3.0,No,9,4,17,No
+21,Sales,1200.0,3,4.0,No,2,2,27,No
+53,IT,5550.0,5,1.0,No,18,3,27,Yes
+28,Sales,4555.0,5,2.0,No,3,1,9,No
+40,Sales,5915.0,1,4.0,No,19,1,8,No
+37,Research & Development,6504.0,2,1.0,No,5,2,19,Yes
+57,Finance,7054.0,2,1.0,Yes,2,4,14,Yes
+20,Finance,1914.0,2,4.0,No,0,1,6,No
+29,Sales,4556.0,1,3.0,No,5,2,30,Yes
+35,Human Resources,3233.0,4,4.0,No,5,1,2,Yes
+44,IT,4474.0,2,2.0,No,15,2,30,No
+28,Finance,2029.0,4,3.0,No,8,2,9,No
+46,Research & Development,4585.0,1,3.0,No,0,1,4,No
+27,Sales,3114.0,2,4.0,Yes,3,1,13,Yes
+57,Research & Development,6023.0,1,3.0,No,18,2,22,No
+58,Human Resources,8934.0,3,3.0,No,11,3,7,No
+23,Research & Development,3600.0,5,4.0,No,4,1,27,Yes
+44,Sales,5897.0,4,4.0,No,0,4,10,No
+53,Sales,6522.0,2,2.0,Yes,6,3,19,No
+34,Human Resources,6430.0,2,4.0,No,3,4,17,No
+48,IT,4718.0,5,3.0,Yes,20,4,28,No
+52,IT,7140.0,4,1.0,No,2,2,18,No
+55,Sales,5499.0,2,1.0,No,11,4,30,No
+43,IT,5219.0,4,4.0,Yes,12,4,27,No
+44,Human Resources,6074.0,3,2.0,Yes,6,1,27,No
+25,Finance,2055.0,1,3.0,Yes,3,3,5,Yes
+38,Finance,4446.0,2,2.0,No,3,3,28,No
+49,Human Resources,5962.0,4,4.0,Yes,6,2,12,No
+52,Human Resources,6845.0,5,2.0,Yes,15,3,23,No
+34,Finance,4261.0,3,3.0,Yes,15,1,16,No
+31,Human Resources,7629.0,5,3.0,No,5,1,12,No
+49,Sales,8213.0,5,4.0,No,4,2,3,No
+22,Research & Development,1200.0,1,4.0,No,1,3,3,No
+28,Human Resources,4101.0,3,2.0,No,8,2,6,No
+50,Sales,6715.0,5,1.0,No,15,4,17,Yes
+47,Finance,6175.0,2,2.0,No,9,4,6,Yes
+53,Human Resources,8004.0,3,2.0,No,13,1,16,No
+51,Research & Development,2712.0,3,4.0,No,17,2,17,Yes
+53,Human Resources,5046.0,2,1.0,No,17,4,7,No
+33,IT,6286.0,1,2.0,No,12,4,22,No
+38,Sales,6368.0,3,1.0,No,7,2,23,Yes
+44,Human Resources,8223.0,5,2.0,No,6,1,13,Yes
+50,Research & Development,8036.0,2,2.0,No,6,2,28,Yes
+35,Sales,3085.0,4,2.0,No,12,1,14,No
+49,Research & Development,,1,4.0,No,2,4,15,No
+27,Finance,3526.0,5,1.0,No,6,1,12,No
+31,IT,4496.0,1,4.0,Yes,10,2,27,No
+47,Finance,5832.0,3,4.0,No,10,4,26,No
+51,Research & Development,5585.0,1,1.0,Yes,15,3,20,Yes
+23,Sales,2881.0,4,3.0,No,2,3,18,Yes
+59,Human Resources,7835.0,1,3.0,No,2,3,30,Yes
+52,Sales,5587.0,3,4.0,No,18,3,17,No
+34,Research & Development,4789.0,4,1.0,Yes,0,4,19,Yes
+46,Finance,6252.0,1,1.0,No,7,2,28,No
+31,IT,3605.0,1,3.0,No,4,2,25,No
+24,Human Resources,3238.0,2,1.0,Yes,0,2,28,Yes
+43,Research & Development,6766.0,4,2.0,No,4,4,11,No
+56,Sales,4580.0,4,1.0,No,10,1,12,No
+55,Finance,5718.0,1,4.0,Yes,7,1,4,Yes
+23,Research & Development,1879.0,5,2.0,No,1,1,20,No
+44,Sales,5740.0,2,3.0,No,11,4,12,No
+23,IT,6730.0,5,1.0,Yes,1,2,6,No
+59,IT,5430.0,3,3.0,No,8,3,21,No
+36,Research & Development,6192.0,3,2.0,No,10,2,2,No
+57,Finance,8419.0,5,3.0,No,6,1,14,No
+40,Finance,2535.0,2,4.0,No,18,1,11,No
+49,Human Resources,4344.0,2,4.0,No,11,4,20,No
+20,Research & Development,3175.0,1,3.0,,0,4,10,No
+48,Finance,4675.0,5,3.0,Yes,16,4,16,No
+44,Finance,5814.0,3,1.0,No,18,2,27,No
+27,IT,5504.0,5,3.0,Yes,5,3,30,No
+38,Human Resources,5755.0,3,2.0,No,13,1,28,No
+33,Human Resources,4199.0,3,2.0,No,11,3,5,No
+21,Research & Development,3976.0,4,2.0,No,2,1,16,No
+53,Sales,6757.0,3,3.0,No,20,3,4,No
+47,Research & Development,4244.0,2,1.0,No,11,4,4,No
+36,Research & Development,3998.0,2,1.0,No,13,1,3,No
+32,IT,4901.0,3,2.0,No,3,1,25,Yes
+29,Sales,3973.0,2,4.0,No,2,4,12,No
+51,Human Resources,6532.0,5,3.0,Yes,2,4,1,No
+22,Finance,4458.0,1,1.0,Yes,3,1,23,Yes
+41,Human Resources,2292.0,2,4.0,No,14,2,25,No
+29,Finance,5833.0,1,1.0,No,7,1,24,Yes
+23,IT,1200.0,2,4.0,No,3,4,27,No
+43,Research & Development,5399.0,2,2.0,Yes,15,1,16,No
+31,Research & Development,4429.0,2,,No,7,2,24,No
+57,Human Resources,6539.0,5,2.0,No,18,4,6,No
+49,Finance,6180.0,2,4.0,Yes,9,4,16,No
+36,Sales,4044.0,2,4.0,No,16,1,2,No
+60,Sales,6123.0,2,1.0,No,0,2,23,No
+52,Human Resources,6113.0,4,3.0,Yes,8,2,11,No
+40,Research & Development,5306.0,3,4.0,No,7,1,5,No
+25,Finance,2847.0,1,2.0,No,0,2,17,Yes
+23,Sales,3865.0,3,1.0,Yes,3,3,21,Yes
+53,Finance,5292.0,3,4.0,No,13,3,6,No
+39,Sales,4293.0,1,1.0,No,13,1,18,No
+58,Sales,6513.0,4,4.0,No,16,4,14,No
+39,Finance,5532.0,3,1.0,No,0,4,20,No
+40,Sales,4716.0,4,3.0,Yes,4,3,13,No
+53,Research & Development,6794.0,5,1.0,Yes,17,2,28,Yes
+38,Human Resources,6832.0,2,2.0,No,5,4,19,Yes
+41,Research & Development,4610.0,1,1.0,No,7,4,3,No
+57,Human Resources,8264.0,4,2.0,Yes,1,4,20,No
+29,Human Resources,2454.0,4,1.0,Yes,2,1,2,No
+29,Research & Development,4817.0,2,4.0,No,5,1,14,No
+58,Human Resources,6564.0,3,4.0,No,0,2,28,Yes
+57,Research & Development,9231.0,4,3.0,No,20,4,9,No
+60,Human Resources,6374.0,3,4.0,No,11,2,14,No
+57,Human Resources,5700.0,3,2.0,No,2,2,13,No
+20,IT,4447.0,3,4.0,No,0,1,27,No
+59,Finance,7382.0,3,2.0,No,17,3,18,Yes
+26,Human Resources,3844.0,4,1.0,No,5,3,27,No
+56,Research & Development,3703.0,3,3.0,No,12,1,12,No
+48,Research & Development,6315.0,5,2.0,No,9,3,2,No
+41,Research & Development,5045.0,5,2.0,No,8,2,21,No
+38,IT,4990.0,1,1.0,Yes,5,4,3,No
+47,Finance,4806.0,2,3.0,Yes,16,4,13,No
+46,IT,7211.0,5,1.0,No,18,2,12,Yes
+41,Finance,5151.0,2,4.0,No,20,2,8,No
+23,Human Resources,3162.0,4,1.0,No,0,2,3,No
+32,Finance,2440.0,2,1.0,No,13,2,19,No
+27,Finance,3596.0,1,3.0,Yes,1,4,20,No
+60,Sales,5654.0,1,3.0,No,14,4,13,No
+54,Human Resources,8036.0,4,3.0,No,20,3,27,Yes
+21,IT,3557.0,1,4.0,No,0,4,30,No
+45,Sales,4812.0,4,1.0,Yes,5,1,30,No
+30,Sales,3894.0,1,3.0,No,11,1,2,No
+40,Finance,6803.0,3,2.0,Yes,12,3,27,No
+58,Finance,6940.0,4,2.0,Yes,14,2,1,Yes
+44,Research & Development,5426.0,5,1.0,No,19,4,13,No
+59,Human Resources,9094.0,2,2.0,No,19,1,18,No
+33,Research & Development,4841.0,1,4.0,No,1,2,10,No
+31,Finance,5292.0,3,3.0,No,2,1,15,No
+54,Finance,5969.0,3,2.0,Yes,9,2,20,Yes
+60,Human Resources,6504.0,5,4.0,Yes,14,1,10,No
+46,Human Resources,6643.0,1,4.0,No,11,1,28,No
+53,Human Resources,6238.0,3,4.0,No,20,4,11,No
+36,Human Resources,5111.0,2,3.0,No,13,3,17,No
+51,Finance,6027.0,5,3.0,Yes,1,3,3,No
+27,Sales,3825.0,3,4.0,Yes,0,4,22,No
+43,Sales,5185.0,3,3.0,No,10,2,13,No
+50,Finance,4432.0,5,3.0,No,18,2,27,No
+36,Sales,6245.0,3,4.0,No,0,1,14,Yes
+31,Sales,3486.0,2,4.0,Yes,9,2,7,No
+20,IT,1724.0,2,1.0,No,0,2,21,Yes
+38,Research & Development,4967.0,5,1.0,Yes,8,1,5,No
+34,Human Resources,3702.0,5,3.0,No,4,2,30,No
+47,Finance,7238.0,3,1.0,Yes,10,2,23,Yes
+35,Human Resources,5354.0,2,4.0,No,10,2,3,No
+49,Sales,5211.0,4,3.0,No,15,4,26,No
+23,Research & Development,2383.0,4,2.0,No,2,1,9,Yes
+60,Research & Development,7732.0,1,3.0,Yes,0,4,30,No
+23,Finance,2610.0,1,4.0,Yes,3,4,2,No
+34,IT,2846.0,3,2.0,No,2,1,18,No
+30,Human Resources,2116.0,2,2.0,No,4,1,14,No
+52,IT,7048.0,2,4.0,No,3,1,8,No
+40,Human Resources,3187.0,5,2.0,No,12,1,30,No
+50,Research & Development,4594.0,3,3.0,Yes,14,4,29,No
+51,Finance,6931.0,5,2.0,No,5,3,5,No
+46,Human Resources,6593.0,2,1.0,No,7,1,25,No
+44,Human Resources,4034.0,3,4.0,Yes,9,1,26,No
+40,IT,4324.0,4,2.0,No,5,1,27,Yes
+42,Human Resources,6416.0,5,3.0,No,18,1,17,No
+51,IT,6354.0,4,1.0,No,4,3,24,No
+52,Human Resources,5641.0,3,3.0,No,8,1,5,No
+38,Human Resources,5007.0,5,4.0,Yes,15,4,18,Yes
+54,Research & Development,6887.0,5,2.0,No,20,3,11,No
+20,IT,1835.0,2,1.0,Yes,0,4,6,No
+38,Finance,3646.0,5,2.0,No,15,1,4,No
+48,Sales,7152.0,3,4.0,No,13,3,30,No
+44,Research & Development,7542.0,5,1.0,Yes,19,3,16,No
+36,Research & Development,5764.0,3,1.0,No,7,4,30,No
+57,Human Resources,6447.0,3,4.0,No,13,2,12,No
+22,IT,2533.0,1,1.0,No,2,1,17,No
+23,Finance,3514.0,5,2.0,Yes,4,2,27,Yes
+39,Sales,6226.0,2,2.0,Yes,8,3,12,No
+44,IT,6951.0,2,4.0,Yes,10,1,17,No
+36,Sales,4669.0,4,3.0,No,17,4,29,Yes
+51,Human Resources,6588.0,5,2.0,Yes,9,2,10,No
+46,Sales,3900.0,3,4.0,Yes,9,2,20,No
+37,Sales,4614.0,3,3.0,Yes,5,3,5,No
+31,Human Resources,5960.0,1,3.0,Yes,8,3,18,No
+50,Research & Development,5844.0,5,4.0,Yes,17,4,5,No
+40,Sales,5611.0,2,3.0,Yes,0,1,2,No
+54,Finance,7469.0,4,1.0,No,5,1,13,No
+28,Sales,4904.0,5,3.0,No,2,2,3,No
+51,Human Resources,6225.0,2,3.0,No,18,3,10,No
+48,Human Resources,5150.0,3,1.0,No,10,1,22,No
+42,Sales,2658.0,4,1.0,Yes,17,3,24,No
+58,Human Resources,5382.0,3,4.0,No,15,4,27,No
+49,Sales,5547.0,3,4.0,No,16,4,25,No
+58,Sales,7631.0,1,4.0,Yes,9,4,1,No
+49,IT,6163.0,1,4.0,No,4,3,8,No
+31,Finance,5579.0,5,2.0,No,0,2,27,Yes
+35,Sales,3127.0,5,2.0,No,15,3,26,No
+56,Human Resources,4451.0,5,,No,20,1,5,No
+20,Finance,3883.0,5,2.0,Yes,1,2,2,No
+57,Finance,8811.0,3,1.0,No,18,4,23,No
+58,IT,7009.0,1,3.0,No,11,2,4,No
+54,Research & Development,5737.0,3,3.0,No,16,2,24,No
+39,Finance,6029.0,1,4.0,No,16,4,11,No
+48,Sales,7510.0,3,3.0,No,5,4,24,No
+32,Finance,2849.0,1,3.0,No,0,1,4,No
+27,Human Resources,3418.0,4,2.0,No,4,3,24,No
+30,IT,5322.0,4,4.0,No,5,4,23,No
+56,IT,6880.0,3,2.0,Yes,1,4,14,No
+36,IT,3731.0,2,4.0,No,8,2,25,No
+49,Human Resources,5563.0,4,3.0,Yes,18,3,11,No
+43,IT,4292.0,3,1.0,No,3,2,30,No
+60,Human Resources,5217.0,5,4.0,No,11,3,11,No
+41,Research & Development,5535.0,1,2.0,No,17,4,21,No
+38,Finance,3325.0,4,1.0,Yes,6,4,1,Yes
+35,Finance,4445.0,2,1.0,No,7,4,5,No
+47,Sales,4608.0,2,3.0,Yes,10,1,20,Yes
+23,Research & Development,3963.0,5,1.0,No,0,1,28,Yes
+59,Sales,6435.0,5,3.0,No,4,3,19,No
+60,IT,6645.0,3,1.0,Yes,5,2,22,Yes
+24,Human Resources,1688.0,4,3.0,No,1,2,4,No
+20,Sales,3428.0,4,4.0,Yes,1,1,21,No
+56,Human Resources,6042.0,5,4.0,No,5,3,7,No
+57,Human Resources,5704.0,4,4.0,No,4,4,9,No
+38,IT,5351.0,4,4.0,Yes,9,3,11,No
+21,Research & Development,4317.0,5,4.0,No,1,2,10,No
+24,Finance,5529.0,1,1.0,Yes,3,2,10,No
+40,IT,5266.0,1,1.0,No,2,4,18,Yes
+58,Sales,7024.0,1,1.0,No,9,1,27,No
+52,Human Resources,5056.0,1,2.0,Yes,1,3,25,Yes
+21,Human Resources,2428.0,2,1.0,Yes,0,1,6,No
+47,Research & Development,7095.0,4,2.0,No,17,2,14,No
+53,Research & Development,5743.0,5,3.0,No,13,3,23,No
+48,Research & Development,7970.0,1,2.0,Yes,14,3,8,Yes
+37,Research & Development,3289.0,3,4.0,No,4,1,12,Yes
+23,Human Resources,3258.0,1,4.0,No,3,1,11,No
+50,Human Resources,5786.0,5,3.0,No,9,3,15,No
+55,Human Resources,5691.0,3,3.0,No,20,4,8,No
+42,Sales,4895.0,4,1.0,Yes,12,3,6,No
+46,Finance,5414.0,3,3.0,Yes,15,2,27,No
+24,Sales,3757.0,5,2.0,Yes,2,1,20,Yes
+58,Finance,6682.0,2,4.0,No,3,2,30,No
+34,IT,5747.0,3,3.0,Yes,1,2,13,No
+60,Sales,9958.0,4,2.0,No,11,4,14,No
+26,Sales,4641.0,5,4.0,No,1,2,23,Yes
+50,IT,6509.0,4,4.0,No,14,2,17,No
+50,Research & Development,4851.0,2,4.0,Yes,10,2,12,No
+53,Research & Development,5669.0,1,4.0,No,9,3,7,No
+31,Research & Development,2201.0,5,1.0,No,2,4,10,No
+59,Sales,7474.0,5,2.0,No,20,4,17,Yes
+36,IT,2939.0,2,3.0,,9,2,11,No
+49,Research & Development,6764.0,5,3.0,No,19,3,17,No
+23,Sales,2573.0,3,4.0,Yes,0,4,21,No
+45,IT,6000.0,4,4.0,No,11,1,4,No
+30,IT,4770.0,3,1.0,Yes,6,2,15,No
+41,IT,2932.0,4,1.0,No,6,2,28,Yes
+50,Sales,5096.0,4,1.0,No,11,4,5,No
+41,Research & Development,5624.0,1,2.0,No,14,4,4,No
+22,Sales,3964.0,2,1.0,No,2,2,27,No
+46,Sales,6628.0,5,1.0,Yes,10,3,12,No
+34,Human Resources,4119.0,4,3.0,No,0,3,18,No
+45,Finance,5464.0,5,4.0,No,5,1,2,No
+48,IT,8002.0,5,4.0,Yes,3,2,10,No
+20,Human Resources,3439.0,3,2.0,No,0,2,5,No
+31,Research & Development,5232.0,1,1.0,Yes,11,1,30,Yes
+26,Research & Development,3454.0,3,2.0,No,6,2,15,No
+48,Sales,4054.0,2,3.0,Yes,16,1,25,No
+37,Sales,5375.0,4,1.0,No,12,2,1,No
+24,Human Resources,4235.0,4,1.0,No,5,2,29,No
+31,Sales,5377.0,4,4.0,No,7,2,29,No
+59,IT,5826.0,2,4.0,No,18,4,23,No
+47,Human Resources,4917.0,4,2.0,Yes,4,4,23,No
+36,Sales,2127.0,4,4.0,No,4,4,25,No
+60,Research & Development,7673.0,2,1.0,No,17,2,1,No
+47,Human Resources,6741.0,3,2.0,Yes,20,3,30,No
+30,IT,3344.0,1,2.0,No,3,2,23,Yes
+26,Human Resources,3241.0,4,4.0,No,1,3,29,No
+53,Human Resources,6077.0,5,2.0,No,4,1,26,No
+32,Finance,6248.0,1,1.0,No,4,4,24,Yes
+35,Human Resources,5713.0,2,3.0,Yes,12,3,4,No
+30,Finance,5518.0,1,1.0,No,4,4,1,No
+49,Human Resources,5778.0,2,2.0,No,15,4,23,Yes
+25,IT,3141.0,3,4.0,No,6,2,29,No
+23,Sales,4806.0,3,2.0,No,0,2,17,Yes
+43,Human Resources,3395.0,3,1.0,Yes,10,2,22,No
+45,Sales,6190.0,3,1.0,No,17,1,23,Yes
+46,Finance,4111.0,4,4.0,No,14,2,26,No
+41,Research & Development,6137.0,4,1.0,Yes,15,3,11,No
+30,Human Resources,4759.0,5,2.0,No,6,1,18,No
+53,Sales,5268.0,1,3.0,No,7,1,23,Yes
+60,Research & Development,7262.0,5,3.0,Yes,11,1,15,No
+24,Sales,2219.0,5,3.0,Yes,0,2,10,No
+32,IT,3080.0,4,3.0,Yes,0,1,30,No
+41,IT,4720.0,5,1.0,Yes,4,1,22,No
+37,Human Resources,3899.0,2,4.0,No,1,1,29,Yes
+55,Sales,7708.0,2,3.0,No,9,2,20,No
+59,IT,9406.0,2,3.0,Yes,1,3,14,No
+48,Research & Development,5861.0,3,4.0,No,7,1,13,No
+36,Research & Development,4710.0,5,1.0,No,13,2,20,No
+26,IT,4660.0,5,1.0,No,1,4,11,Yes
+50,Research & Development,5660.0,1,1.0,No,17,2,21,Yes
+54,IT,6963.0,3,4.0,No,10,2,17,No
+59,Finance,4639.0,4,4.0,No,10,1,25,Yes
+29,IT,3212.0,2,1.0,Yes,3,4,30,Yes
+45,Finance,3713.0,4,1.0,No,10,4,20,No
+23,Finance,1200.0,3,4.0,No,3,2,5,No
+59,Human Resources,8032.0,5,4.0,Yes,6,1,26,Yes
+23,Finance,3108.0,5,3.0,No,4,2,9,No
+52,Research & Development,8107.0,1,4.0,Yes,3,2,13,No
+52,Sales,8031.0,1,3.0,No,16,3,6,No
+38,Sales,4818.0,1,2.0,No,12,2,15,No
+54,Finance,5914.0,3,1.0,Yes,0,3,15,Yes
+22,Finance,2467.0,4,2.0,No,0,3,23,No
+56,IT,3674.0,4,4.0,No,2,1,7,No
+34,Human Resources,3872.0,3,4.0,No,9,3,23,No
+50,Research & Development,5703.0,4,2.0,No,10,3,7,No
+25,Sales,2849.0,3,4.0,No,3,1,16,No
+56,IT,5436.0,1,2.0,Yes,7,1,30,No
+26,Sales,3646.0,1,1.0,No,4,2,12,No
+58,Finance,6346.0,1,4.0,No,12,2,3,No
+32,IT,4483.0,1,4.0,No,7,4,20,No
+42,Human Resources,4084.0,3,2.0,No,11,4,20,No
+48,Sales,8094.0,4,3.0,No,12,1,21,No
+45,Research & Development,6202.0,3,4.0,Yes,11,2,15,No
+42,IT,5074.0,5,1.0,No,19,4,11,No
+59,Finance,5942.0,1,1.0,Yes,5,4,29,Yes
+44,Human Resources,4295.0,4,1.0,No,3,2,18,No
+41,Sales,6116.0,3,4.0,No,3,1,24,No
+23,Finance,2969.0,2,1.0,No,2,3,19,No
+29,Human Resources,4089.0,2,2.0,No,4,4,7,No
+38,IT,5380.0,1,4.0,Yes,12,1,5,No
+58,Human Resources,6133.0,2,4.0,No,2,2,29,No
+41,Research & Development,5476.0,4,3.0,No,8,4,8,No
+22,Finance,1200.0,1,1.0,No,3,4,11,No
+28,Human Resources,2779.0,4,4.0,No,2,3,23,No
+43,Sales,3043.0,4,3.0,No,2,4,1,No
+25,IT,3157.0,3,1.0,Yes,0,2,29,Yes
+58,Finance,6272.0,1,4.0,Yes,8,1,20,No
+28,Finance,6035.0,5,2.0,Yes,1,2,18,No
+50,Research & Development,5079.0,4,2.0,No,7,1,26,No
+50,Finance,6190.0,5,1.0,No,4,2,8,No
+44,Research & Development,5943.0,1,1.0,No,4,3,30,No
+43,Research & Development,7019.0,4,4.0,Yes,3,4,29,Yes
+39,Finance,5511.0,1,2.0,No,6,2,2,No
+28,Human Resources,4812.0,2,2.0,No,7,3,9,No
+31,IT,6350.0,5,3.0,No,9,2,28,Yes
+38,Human Resources,2863.0,2,2.0,No,7,1,8,No
+43,IT,4649.0,4,1.0,No,9,3,6,No
+55,Human Resources,6029.0,3,4.0,Yes,15,3,16,No
+50,IT,5925.0,3,1.0,No,7,2,24,Yes
+60,Research & Development,6195.0,1,3.0,No,5,1,6,No
+43,Sales,6617.0,3,3.0,No,17,2,19,No
+38,Human Resources,4121.0,4,1.0,Yes,14,2,12,Yes
+51,Human Resources,5316.0,2,3.0,No,9,2,16,No
+39,IT,5508.0,1,1.0,Yes,13,3,27,Yes
+59,Sales,5968.0,2,3.0,No,0,2,5,No
+42,Human Resources,3983.0,2,3.0,No,1,4,26,No
+46,Finance,4055.0,4,2.0,No,10,4,10,No
+58,Research & Development,6595.0,2,3.0,No,8,1,17,No
+49,IT,7116.0,2,3.0,Yes,19,4,5,Yes
+35,Finance,5518.0,4,2.0,No,16,4,27,No
+54,Human Resources,6908.0,3,3.0,No,10,2,30,No
+58,Sales,6890.0,2,1.0,No,3,2,16,Yes
+42,Sales,4563.0,4,3.0,No,1,3,5,No
+54,Finance,6255.0,3,2.0,No,9,3,3,No
+31,Human Resources,2718.0,2,3.0,No,9,3,13,No
+39,IT,5131.0,2,2.0,No,15,3,1,Yes
+52,Sales,7375.0,4,1.0,Yes,12,2,2,No
+27,Sales,1859.0,2,4.0,No,5,3,1,No
+53,Sales,7853.0,2,3.0,No,2,3,18,No
+57,Finance,4066.0,3,3.0,No,0,1,5,Yes
+60,Sales,6008.0,1,1.0,No,13,2,26,No
+26,Human Resources,2416.0,5,3.0,No,0,1,7,No
+20,Sales,2275.0,1,2.0,No,1,2,23,Yes
+34,Research & Development,4038.0,2,1.0,No,9,1,7,No
+40,Sales,6535.0,5,2.0,No,17,3,4,No
+41,IT,3923.0,5,2.0,Yes,17,3,19,No
+22,IT,2215.0,2,1.0,No,1,1,9,Yes
+47,Finance,4807.0,2,4.0,Yes,6,3,23,No
+40,Sales,4369.0,3,1.0,No,18,2,25,Yes
+34,Finance,3691.0,2,3.0,No,15,1,19,No
+39,Research & Development,3336.0,5,1.0,Yes,10,2,27,No
+43,Finance,5615.0,2,4.0,Yes,5,3,5,Yes
+29,Human Resources,3821.0,4,2.0,No,7,3,17,No
+50,Sales,7164.0,3,4.0,Yes,4,3,18,Yes
+60,IT,8404.0,4,3.0,No,17,3,1,No
+34,Research & Development,2586.0,5,1.0,No,5,3,2,No
+50,Research & Development,7860.0,2,2.0,Yes,20,3,23,Yes
+22,Finance,3928.0,3,4.0,Yes,1,3,23,Yes
+35,IT,6069.0,4,3.0,Yes,13,4,1,No
+42,Finance,5106.0,1,2.0,Yes,19,3,1,No
+52,Finance,6942.0,4,4.0,Yes,19,2,3,No
+32,Human Resources,4941.0,3,3.0,No,0,2,19,Yes
+30,Finance,5688.0,4,1.0,No,2,3,21,No
+55,IT,5722.0,3,2.0,No,3,2,19,No
+31,IT,3453.0,2,2.0,No,3,1,17,Yes
+28,Sales,3588.0,1,4.0,Yes,0,1,15,Yes
+51,Human Resources,7700.0,4,3.0,No,10,4,7,No
+23,Research & Development,5250.0,1,4.0,Yes,3,2,22,No
+48,Finance,4460.0,2,1.0,No,15,4,10,No
+39,IT,5588.0,1,1.0,No,7,1,30,No
+52,Sales,6148.0,3,3.0,No,7,1,21,No
+55,Finance,6191.0,4,3.0,Yes,0,1,29,No
+35,Finance,5219.0,4,1.0,No,13,4,27,Yes
+30,Sales,6332.0,3,1.0,No,11,1,20,Yes
+27,Finance,4529.0,3,4.0,Yes,0,4,18,No
+49,IT,5367.0,4,2.0,No,2,2,30,No
+37,Human Resources,4024.0,4,4.0,No,12,4,9,No
+52,Sales,6811.0,3,3.0,No,5,2,2,No
+50,Human Resources,6333.0,2,2.0,No,3,2,15,Yes
+60,Finance,8332.0,4,2.0,No,0,2,8,Yes
+54,IT,8084.0,3,2.0,Yes,10,1,28,No
+57,Finance,6997.0,3,4.0,No,9,1,16,No
+56,Research & Development,7333.0,3,3.0,No,20,2,30,No
+57,Human Resources,8707.0,1,4.0,Yes,20,4,4,No
+60,Finance,8546.0,5,3.0,Yes,5,3,22,No
+35,IT,3533.0,1,3.0,No,11,4,30,No
+32,Sales,2615.0,1,4.0,No,8,1,25,No
+44,Sales,3833.0,4,3.0,Yes,15,2,12,Yes
+54,Sales,4314.0,2,4.0,No,20,2,13,No
+27,Research & Development,4321.0,5,2.0,No,0,4,17,No
+60,Human Resources,5487.0,4,4.0,No,14,1,13,No
+32,Finance,5148.0,1,4.0,No,10,1,17,No
+31,Finance,3249.0,5,2.0,No,0,2,25,No
+36,Finance,5854.0,4,3.0,Yes,0,2,13,No
+20,Sales,3945.0,5,3.0,No,0,2,8,Yes
+36,Finance,4895.0,5,4.0,No,9,3,16,No
+25,Finance,4201.0,2,1.0,No,6,1,11,No
+52,IT,4674.0,1,4.0,No,9,3,24,No
+51,Sales,3161.0,4,4.0,No,0,1,16,No
+45,Research & Development,4880.0,4,2.0,Yes,7,4,1,Yes
+52,Finance,6731.0,1,2.0,No,3,2,12,No
+26,Sales,2157.0,1,4.0,No,3,1,24,No
+30,Research & Development,4885.0,4,3.0,No,10,1,28,No
+56,Sales,7288.0,2,3.0,No,15,3,27,No
+58,Human Resources,6902.0,3,2.0,No,19,4,29,No
+31,IT,4505.0,3,1.0,Yes,3,2,24,Yes
+29,Human Resources,3890.0,4,4.0,No,3,4,21,No
+24,Human Resources,3697.0,1,1.0,Yes,5,2,17,No
+49,Human Resources,4374.0,1,3.0,No,0,3,30,No
+47,IT,6973.0,5,4.0,No,19,4,24,No
+27,IT,4219.0,2,3.0,No,0,2,15,No
+45,Human Resources,6162.0,5,3.0,Yes,20,3,2,No
+51,Finance,5183.0,4,2.0,No,15,3,21,No
+32,Finance,2492.0,2,1.0,No,11,3,29,No
+22,Finance,4807.0,1,1.0,No,1,3,26,No
+29,IT,2221.0,3,2.0,No,3,4,15,No
+44,Finance,5017.0,4,3.0,Yes,2,3,30,Yes
+41,Human Resources,4997.0,1,3.0,Yes,20,2,4,Yes
+34,Sales,4765.0,2,2.0,No,3,3,26,Yes
+42,Finance,5618.0,4,2.0,Yes,17,3,19,Yes
+47,IT,5678.0,5,3.0,No,6,2,19,No
+58,Sales,5026.0,5,,No,7,4,12,No
+56,Finance,6225.0,5,4.0,No,19,3,29,No
+47,Human Resources,5592.0,1,3.0,Yes,5,4,12,No
+33,IT,5016.0,4,2.0,No,12,2,30,No
+36,Sales,4942.0,5,3.0,No,5,3,29,Yes
+58,IT,8109.0,1,1.0,Yes,11,2,16,Yes
+33,IT,5381.0,1,4.0,No,14,3,11,No
+38,Research & Development,3315.0,2,3.0,No,14,3,10,No
+60,Finance,7018.0,1,1.0,Yes,10,4,25,Yes
+36,Sales,5187.0,4,2.0,Yes,16,1,20,No
+52,Sales,5569.0,4,2.0,No,16,1,18,No
+28,Research & Development,5711.0,1,1.0,Yes,5,4,10,Yes
+36,Finance,3997.0,4,4.0,No,9,1,22,No
+22,Human Resources,1777.0,5,3.0,No,1,3,6,No
+54,Research & Development,4237.0,5,1.0,Yes,17,4,27,No
+22,Research & Development,2769.0,5,4.0,No,0,2,21,No
+53,IT,5719.0,4,1.0,No,18,4,12,No
+54,Finance,5920.0,1,3.0,No,2,2,13,No
+26,Finance,1200.0,4,3.0,No,2,1,19,No
+20,IT,3161.0,4,4.0,No,0,1,28,No
+59,Finance,8236.0,4,4.0,,0,2,18,No
+46,IT,4849.0,5,3.0,Yes,11,4,30,Yes
+43,Finance,6066.0,5,2.0,No,2,4,15,Yes
+44,IT,4696.0,1,4.0,Yes,15,2,7,No
+50,Finance,5024.0,5,4.0,No,5,4,16,No
+44,Research & Development,7062.0,2,4.0,Yes,10,2,10,No
+51,Finance,6986.0,1,3.0,No,5,4,8,No
+38,Human Resources,5950.0,4,3.0,No,12,3,11,No
+20,IT,5984.0,2,4.0,No,0,2,2,No
+22,IT,3379.0,4,3.0,No,3,2,12,Yes
+50,Research & Development,6020.0,3,3.0,No,19,4,19,No
+27,Research & Development,4030.0,4,1.0,No,6,1,17,No
+24,Sales,5302.0,4,3.0,No,4,1,22,No
+48,Human Resources,6994.0,3,3.0,No,19,2,30,No
+26,Finance,2700.0,1,2.0,No,3,1,21,Yes
+56,IT,5633.0,2,3.0,No,11,4,13,No
+32,Research & Development,4790.0,4,4.0,Yes,1,3,13,No
+39,Finance,5613.0,5,4.0,Yes,10,3,7,No
+37,Human Resources,5378.0,3,4.0,No,6,3,19,Yes
+36,Human Resources,5379.0,1,4.0,No,1,4,8,No
+45,Sales,5346.0,2,1.0,No,17,3,3,No
+54,Research & Development,7170.0,3,4.0,Yes,15,3,22,No
+29,Human Resources,4829.0,1,4.0,No,1,3,4,No
+21,Research & Development,2222.0,3,1.0,No,2,3,2,No
+49,Sales,4446.0,4,3.0,Yes,6,4,15,Yes
+44,Research & Development,5764.0,4,3.0,Yes,4,2,25,No
+38,Finance,4419.0,5,2.0,Yes,4,3,13,No
+59,IT,5177.0,5,3.0,No,4,4,22,No
+33,Finance,5364.0,5,1.0,Yes,13,3,19,Yes
+37,Research & Development,5321.0,4,1.0,Yes,9,2,6,No
+55,Finance,8199.0,5,2.0,Yes,11,1,15,Yes
+32,IT,4276.0,5,4.0,No,12,4,11,No
+60,Finance,7091.0,1,2.0,No,16,4,15,Yes
+35,Research & Development,2893.0,4,4.0,No,15,3,8,No
+50,Human Resources,7743.0,5,3.0,No,6,2,27,No
+43,Human Resources,6125.0,2,2.0,No,17,2,24,No
+51,Finance,7217.0,2,2.0,No,10,1,12,No
+56,IT,6318.0,2,1.0,No,1,1,17,No
+26,IT,3696.0,2,4.0,No,2,3,17,No
+49,Sales,6345.0,5,4.0,Yes,9,2,29,No
+37,Finance,3901.0,3,3.0,Yes,17,1,21,No
+34,Research & Development,3591.0,4,2.0,Yes,3,3,19,No
+51,Sales,8536.0,5,2.0,No,3,2,26,No
+35,Research & Development,5029.0,2,2.0,No,15,3,5,No
+26,Human Resources,2932.0,3,4.0,Yes,6,3,4,No
+46,IT,3951.0,2,1.0,No,10,1,7,No
+58,Finance,5386.0,2,1.0,Yes,7,4,2,No
+45,Human Resources,5957.0,4,4.0,Yes,3,4,10,No
+32,Sales,3176.0,1,2.0,Yes,5,1,6,No
+24,Human Resources,2265.0,3,1.0,Yes,4,2,18,Yes
+30,IT,3883.0,2,1.0,Yes,10,2,19,No
+43,Human Resources,5801.0,2,3.0,Yes,11,3,28,No
+31,Research & Development,5770.0,4,3.0,No,10,3,13,No
+50,Human Resources,5048.0,4,1.0,No,17,1,20,No
+35,Finance,3770.0,2,4.0,No,13,2,18,No
+25,Sales,4100.0,2,2.0,No,5,1,28,No
+46,Human Resources,5069.0,3,2.0,No,11,1,25,Yes
+51,Finance,7132.0,2,3.0,Yes,0,2,6,No
+56,IT,6040.0,2,2.0,No,8,4,13,Yes
+26,Research & Development,2154.0,1,4.0,No,4,1,9,No
+53,Research & Development,5459.0,1,1.0,No,4,4,12,No
+23,Sales,1599.0,2,2.0,No,1,4,19,No
+58,Human Resources,6151.0,2,4.0,No,19,1,1,No
+42,IT,5845.0,4,2.0,Yes,3,3,4,No
+26,IT,3810.0,2,3.0,No,5,4,28,No
+52,Sales,6077.0,4,2.0,No,4,4,20,Yes
+53,Sales,4777.0,4,3.0,No,12,1,21,No
+45,Research & Development,4639.0,5,3.0,No,16,3,27,No
+38,Research & Development,4420.0,3,1.0,No,18,1,23,Yes
+44,Research & Development,5752.0,1,3.0,No,19,2,25,No
+51,Finance,9154.0,5,3.0,Yes,19,4,3,No
+23,Sales,2636.0,3,3.0,No,4,2,21,No
+20,IT,4304.0,2,4.0,Yes,0,3,28,No
+43,Human Resources,3972.0,1,1.0,No,16,3,22,No
+54,Research & Development,5158.0,1,2.0,Yes,16,4,12,No
+41,Research & Development,2799.0,1,3.0,No,13,4,14,No
+20,Human Resources,2230.0,2,1.0,No,1,2,26,No
+20,Human Resources,4421.0,2,1.0,Yes,0,3,2,Yes
+44,Research & Development,5420.0,4,2.0,No,1,3,9,No
+51,Finance,7575.0,1,1.0,No,10,4,25,No
+41,Human Resources,4561.0,2,4.0,No,7,2,30,No
+29,Finance,5299.0,1,1.0,No,4,2,14,No
+30,Finance,3447.0,5,2.0,Yes,9,4,7,No
+39,Human Resources,6033.0,3,1.0,Yes,15,3,15,No
+25,Human Resources,5599.0,1,1.0,No,5,2,10,Yes
+38,Human Resources,4599.0,3,2.0,No,9,1,14,No
+26,Human Resources,2113.0,1,2.0,Yes,0,1,25,Yes
+47,Human Resources,7932.0,4,2.0,No,3,2,16,No
+49,Human Resources,4873.0,1,1.0,Yes,15,3,11,No
+55,Human Resources,5809.0,3,1.0,No,12,1,20,No
+28,Human Resources,3550.0,5,3.0,Yes,3,4,22,No
+51,Research & Development,7205.0,3,4.0,No,1,2,15,No
+53,Sales,7125.0,4,4.0,No,20,1,19,No
+28,Sales,4709.0,4,4.0,Yes,1,2,14,No
+56,Finance,6254.0,1,3.0,No,6,4,30,No
+29,Human Resources,3786.0,5,3.0,Yes,3,2,16,No
+31,IT,5195.0,1,4.0,Yes,3,3,18,Yes
+37,IT,6779.0,4,1.0,No,17,1,12,No
+53,IT,4803.0,3,1.0,Yes,6,4,19,No
+34,Sales,6002.0,5,2.0,No,0,3,24,Yes
+53,Sales,7464.0,2,1.0,No,3,4,30,Yes
+49,Sales,6721.0,4,3.0,Yes,20,3,25,No
+43,Sales,4525.0,1,3.0,No,10,4,30,No
+42,Research & Development,5388.0,3,1.0,No,17,4,4,No
+40,Finance,5549.0,5,3.0,Yes,6,3,29,No
+38,Sales,4126.0,2,2.0,No,18,3,19,No
+32,Sales,5744.0,2,1.0,No,12,2,5,No
+44,Sales,4905.0,2,1.0,Yes,15,3,6,Yes
+22,Research & Development,5228.0,4,2.0,Yes,3,1,26,Yes
+35,Human Resources,2822.0,2,1.0,No,8,4,5,No
+38,Human Resources,3256.0,4,2.0,No,18,1,7,No
+55,Finance,4245.0,1,2.0,No,16,1,9,No
+56,Human Resources,7471.0,1,2.0,Yes,19,1,23,No
+50,Finance,4959.0,3,4.0,No,20,3,13,No
+27,Sales,2873.0,1,2.0,No,5,1,7,No
+52,Sales,7329.0,1,2.0,No,16,2,1,No
+52,Finance,8318.0,5,1.0,No,2,2,7,No
+60,Human Resources,6088.0,3,4.0,Yes,0,3,8,No
+44,IT,7111.0,2,3.0,No,15,1,23,No
+48,Research & Development,6501.0,1,3.0,No,9,2,3,No
+32,Sales,4315.0,3,1.0,Yes,9,1,27,Yes
+46,Research & Development,4223.0,1,3.0,Yes,19,1,5,No
+40,IT,3395.0,4,2.0,No,1,1,11,No
+51,Finance,6209.0,1,2.0,Yes,7,2,11,Yes
+22,IT,3538.0,1,3.0,No,1,2,26,No
+45,Human Resources,4732.0,5,2.0,No,1,2,17,No
+44,IT,4277.0,2,1.0,Yes,2,1,16,No
+59,IT,5311.0,2,4.0,No,12,2,27,No
+60,Sales,7414.0,4,3.0,No,3,2,12,No
+36,Human Resources,5518.0,5,2.0,Yes,0,1,27,Yes
+41,Research & Development,6047.0,2,4.0,Yes,10,3,9,No
+35,IT,5350.0,5,1.0,No,7,1,30,Yes
+21,Human Resources,2630.0,4,,Yes,2,3,21,Yes
+23,Research & Development,5394.0,2,3.0,Yes,1,4,25,Yes
+23,Finance,2262.0,4,4.0,No,4,2,15,No
+58,Research & Development,7482.0,3,4.0,No,12,1,2,No
+36,IT,4225.0,1,1.0,No,12,4,14,No
+23,Research & Development,2131.0,3,3.0,No,1,2,28,No
+31,Human Resources,3456.0,1,3.0,Yes,10,1,4,No
+57,Research & Development,7359.0,2,2.0,No,11,2,13,No
+50,Finance,7345.0,1,3.0,No,14,3,29,No
+34,Human Resources,4907.0,3,4.0,Yes,11,3,27,No
+34,Human Resources,1200.0,3,1.0,No,12,2,8,No
+60,IT,7872.0,5,4.0,No,1,2,27,No
+37,Human Resources,2252.0,3,3.0,No,0,1,10,No
+25,Sales,5979.0,3,3.0,No,1,2,1,No
+47,Research & Development,6015.0,5,3.0,Yes,7,2,4,No
+29,Human Resources,4222.0,5,2.0,Yes,0,2,16,No
+46,Sales,6867.0,1,1.0,No,17,4,16,No
+52,Sales,5891.0,2,1.0,Yes,20,1,27,No
+43,Finance,5067.0,3,4.0,No,12,1,24,No
+35,Sales,4157.0,5,3.0,No,2,3,21,No
+45,Research & Development,5721.0,3,1.0,No,4,1,27,No
+38,Sales,5001.0,4,1.0,Yes,18,2,16,Yes
+44,Research & Development,5745.0,1,4.0,No,8,1,8,No
+28,Research & Development,1200.0,5,2.0,No,0,3,2,No
+51,IT,6022.0,1,4.0,No,11,1,20,No
+26,Human Resources,1843.0,1,3.0,No,3,1,22,No
+31,IT,7512.0,1,3.0,No,0,1,8,No
+55,Human Resources,7473.0,3,3.0,Yes,14,2,8,No
+41,Research & Development,6306.0,4,2.0,No,15,3,17,Yes
+44,IT,6041.0,3,4.0,No,1,2,28,No
+48,Sales,6657.0,5,4.0,No,18,1,3,No
+52,Sales,5152.0,5,1.0,No,3,4,14,No
+23,IT,4423.0,5,2.0,Yes,2,3,29,No
+35,IT,5647.0,5,3.0,No,12,4,9,No
+50,Finance,6259.0,5,1.0,No,11,1,17,No
+39,Sales,5928.0,4,3.0,No,4,1,29,No
+38,Human Resources,6180.0,1,1.0,No,11,1,13,No
+57,Research & Development,6727.0,5,2.0,No,2,3,21,No
+59,Human Resources,5555.0,1,2.0,Yes,3,2,18,Yes
+57,IT,7699.0,4,3.0,No,14,1,5,No
+22,IT,5224.0,2,2.0,No,3,2,26,Yes
+44,IT,4042.0,1,3.0,Yes,0,2,9,No
+25,Research & Development,5075.0,4,3.0,No,5,3,26,No
+47,Finance,6078.0,5,4.0,Yes,8,1,9,No
+30,Research & Development,4890.0,5,4.0,No,7,2,17,No
+23,Research & Development,4503.0,1,2.0,No,0,2,3,No
+46,Finance,4395.0,4,3.0,No,14,1,23,Yes
+34,IT,4882.0,2,2.0,No,7,1,12,No
+58,IT,8039.0,1,2.0,No,14,2,19,No
+43,Human Resources,7099.0,4,2.0,No,18,1,6,Yes
+24,IT,4631.0,3,3.0,Yes,4,3,27,No
+38,Research & Development,3791.0,4,1.0,Yes,5,3,24,Yes
+54,Sales,6678.0,1,3.0,No,13,4,22,No
+32,Finance,4044.0,5,4.0,No,5,2,8,No
+47,Research & Development,5844.0,4,2.0,No,20,4,17,No
+48,IT,7200.0,4,2.0,No,6,3,30,Yes
+32,IT,2666.0,2,3.0,No,9,4,19,No
+29,Finance,4686.0,5,3.0,Yes,4,4,13,Yes
+50,Research & Development,6590.0,2,1.0,No,14,4,4,No
+57,Research & Development,5550.0,3,3.0,Yes,9,2,10,No
+36,Finance,6079.0,5,2.0,No,9,2,6,No
+28,Finance,3258.0,4,2.0,No,9,1,29,No
+41,Finance,5252.0,5,3.0,Yes,6,2,15,Yes
+49,Sales,2838.0,5,3.0,No,16,2,25,No
+44,Sales,6831.0,5,3.0,No,3,2,3,No
+40,IT,4763.0,2,2.0,No,18,2,16,No
+28,Sales,3583.0,2,4.0,No,4,2,11,No
+50,Sales,7812.0,2,1.0,Yes,14,2,10,Yes
+43,Research & Development,3058.0,5,4.0,Yes,14,2,19,No
+36,Finance,5770.0,2,1.0,,4,1,29,No
+47,Sales,7040.0,5,4.0,Yes,1,1,19,No
+34,IT,2131.0,4,4.0,No,13,3,14,No
+26,Finance,4090.0,4,1.0,Yes,0,2,8,Yes
+46,Research & Development,5212.0,1,3.0,No,7,1,19,No
+31,Research & Development,2979.0,1,3.0,Yes,0,4,23,No
+59,Finance,5349.0,4,2.0,No,19,2,6,Yes
+33,IT,5312.0,4,1.0,Yes,9,3,16,Yes
+48,IT,7276.0,2,1.0,No,4,1,26,No
+28,Sales,2607.0,5,1.0,Yes,8,1,2,No
+20,Sales,2059.0,5,1.0,No,1,3,12,No
+60,Sales,7998.0,1,4.0,No,7,3,24,No
+21,Sales,6226.0,3,2.0,Yes,0,4,26,Yes
+20,Research & Development,1320.0,1,2.0,Yes,0,4,20,No
+28,Human Resources,2194.0,1,3.0,No,8,3,8,No
+23,IT,2167.0,5,3.0,No,2,4,2,No
+34,Sales,3231.0,2,1.0,No,14,1,5,No
+51,Finance,7564.0,1,4.0,No,15,4,17,No
+26,Human Resources,2523.0,4,3.0,No,4,1,7,No
+60,IT,9736.0,1,3.0,No,17,2,25,Yes
+59,Research & Development,7477.0,2,1.0,No,14,1,28,No
+36,Finance,5975.0,5,4.0,No,12,4,23,Yes
+30,IT,4928.0,2,3.0,No,0,1,19,Yes
+24,Sales,2319.0,3,3.0,No,4,3,8,No
+38,Finance,3203.0,2,2.0,No,7,1,17,No
+43,Research & Development,6555.0,3,3.0,No,0,1,24,No
+25,IT,5183.0,5,1.0,Yes,3,4,6,No
+59,IT,7447.0,4,1.0,No,1,1,26,No
+32,Research & Development,4358.0,3,4.0,No,13,2,28,No
+44,Research & Development,5618.0,1,3.0,Yes,4,2,9,No
+42,IT,5580.0,4,2.0,No,13,1,25,No
+48,Human Resources,4209.0,5,4.0,No,9,2,26,No
+37,Human Resources,4907.0,5,4.0,No,2,1,16,No
+55,IT,6545.0,5,3.0,Yes,0,4,20,Yes
+23,IT,1306.0,4,1.0,No,2,3,22,No
+46,Sales,2357.0,3,3.0,Yes,3,1,8,No
+50,Sales,5747.0,5,4.0,No,1,4,4,Yes
+51,Finance,3632.0,2,3.0,Yes,5,4,20,No
+59,Human Resources,4013.0,1,4.0,Yes,18,4,25,No
+57,Finance,4585.0,1,3.0,No,18,4,16,No
+29,IT,4299.0,3,2.0,Yes,4,1,22,No
+35,Research & Development,4575.0,4,2.0,No,3,3,13,No
+29,Human Resources,4158.0,5,3.0,No,8,3,4,No
+24,Human Resources,5686.0,4,1.0,No,2,3,18,No
+50,Human Resources,6701.0,2,3.0,No,11,4,15,No
+57,Sales,8633.0,1,3.0,Yes,2,1,12,No
+38,Human Resources,5152.0,1,1.0,Yes,12,4,29,Yes
+56,Sales,7950.0,5,2.0,No,8,3,5,No
+21,Research & Development,5245.0,3,3.0,No,2,2,14,No
+51,IT,8614.0,3,3.0,No,11,3,11,No
+21,Human Resources,3029.0,5,4.0,No,0,4,28,No
+46,IT,4182.0,1,4.0,No,7,2,13,No
+60,IT,7076.0,1,4.0,No,3,2,22,Yes
+36,Sales,6406.0,2,2.0,No,8,1,20,No
+49,Finance,7917.0,4,3.0,No,4,4,24,No
+51,Human Resources,6307.0,4,2.0,No,2,3,24,Yes
+41,Sales,5661.0,5,1.0,Yes,17,2,30,Yes
+37,Sales,6795.0,5,3.0,No,3,3,25,No
+26,Research & Development,3992.0,5,1.0,No,1,2,25,Yes
+48,Human Resources,6701.0,1,2.0,No,16,1,24,No
+57,Sales,7869.0,3,2.0,No,0,3,24,No
+35,Human Resources,4351.0,4,4.0,Yes,14,2,29,No
+35,Finance,3568.0,5,3.0,No,1,3,19,No
+27,Sales,6936.0,3,4.0,Yes,0,3,3,Yes
+33,Research & Development,3710.0,5,1.0,No,13,4,27,No
+45,Research & Development,4252.0,3,1.0,Yes,15,2,1,Yes
+52,Sales,5921.0,1,3.0,Yes,7,4,1,No
+58,Finance,7008.0,5,1.0,No,8,2,8,No
+53,Research & Development,6700.0,4,3.0,No,2,2,9,No
+40,Finance,4696.0,4,3.0,No,18,2,15,No
+20,Finance,3823.0,2,3.0,No,0,2,8,No
+27,Research & Development,6000.0,3,2.0,Yes,7,4,5,No
+42,Finance,4880.0,2,3.0,Yes,16,4,25,No
+45,Sales,5629.0,4,1.0,Yes,0,4,24,No
+34,Human Resources,6268.0,2,4.0,No,10,1,1,No
+43,Research & Development,4133.0,4,2.0,No,17,2,10,No
+59,Research & Development,5419.0,2,4.0,No,9,2,30,No
+50,Finance,5185.0,1,3.0,No,2,1,13,No
+32,IT,4201.0,4,1.0,No,2,4,7,No
+60,Research & Development,8118.0,2,2.0,No,16,2,24,No
+32,Sales,2299.0,2,4.0,No,2,4,16,No
+25,Human Resources,2836.0,4,3.0,No,5,2,16,No
+46,IT,4279.0,3,4.0,Yes,7,1,3,No
+50,Research & Development,4067.0,5,1.0,No,12,2,1,No
+57,Research & Development,5107.0,4,2.0,No,20,4,5,No
+23,Sales,4418.0,3,2.0,No,0,1,30,No
+46,Finance,5795.0,2,1.0,No,3,3,9,No
+59,Human Resources,7101.0,3,1.0,No,14,2,4,No
+42,Sales,6060.0,1,1.0,No,6,4,21,No
+55,Sales,7071.0,5,3.0,No,5,4,10,No
+24,Research & Development,4115.0,4,2.0,No,3,1,2,No
+20,Finance,5583.0,1,1.0,No,0,4,4,No
+30,Human Resources,4988.0,2,3.0,No,6,1,24,No
+57,Finance,3307.0,2,2.0,No,2,2,11,No
+52,IT,6952.0,1,3.0,No,6,4,13,No
+50,Finance,7262.0,5,2.0,No,6,3,1,No
+25,Sales,4297.0,2,1.0,Yes,3,2,14,Yes
+58,Finance,6058.0,5,3.0,No,12,2,25,No
+58,Finance,5520.0,2,1.0,Yes,16,1,13,No
+35,Research & Development,4682.0,3,2.0,Yes,15,2,14,No
+58,Research & Development,7660.0,5,1.0,No,16,4,2,No
+30,Human Resources,5240.0,3,3.0,No,8,1,19,No
+46,Research & Development,3361.0,1,3.0,Yes,14,4,14,No
+40,Sales,5520.0,3,1.0,Yes,6,4,15,No
+32,Research & Development,5944.0,3,3.0,Yes,12,4,28,No
+28,Research & Development,4925.0,1,3.0,Yes,7,4,21,No
+57,Human Resources,9909.0,5,2.0,No,0,1,20,No
+54,Sales,5555.0,1,1.0,Yes,20,4,28,No
+52,Sales,4720.0,4,3.0,,3,3,17,No
+34,Finance,5638.0,3,4.0,No,5,4,28,No
+50,Sales,7937.0,2,1.0,No,2,3,19,Yes
+59,Research & Development,5639.0,1,4.0,No,0,1,4,No
+25,IT,3734.0,5,3.0,No,1,1,12,No
+51,IT,6444.0,5,1.0,No,13,2,25,No
+45,Human Resources,6102.0,4,2.0,No,15,4,4,No
+39,IT,6581.0,4,2.0,No,10,3,1,No
+53,Sales,9276.0,1,3.0,No,20,1,20,No
+44,Human Resources,4764.0,5,4.0,Yes,18,1,14,No
+29,Human Resources,3666.0,5,2.0,No,4,3,5,No
+47,Human Resources,3887.0,2,2.0,No,4,3,2,No
+30,Research & Development,5123.0,5,4.0,No,11,2,27,No
+35,Research & Development,3216.0,5,1.0,Yes,12,3,25,No
+38,Research & Development,5068.0,5,4.0,No,15,4,27,No
